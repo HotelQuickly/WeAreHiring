@@ -75,7 +75,7 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 **Friday pizza** - we're buying pizza for everyone on Friday. Happy hour!
 
-**Bi-weekly party** - we're organizing parties every 2 weeks and will chip-in
+**Monthly party** - we're organizing parties every 2 weeks and will chip-in
 
 **Hotel vouchers** - arrived to Bangkok and have nowhere to sleep? We'll provide you vouchers for a few days
 
