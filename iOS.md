@@ -6,7 +6,7 @@ HotelQuickly is the #1 mobile app for same-day hotel booking in Asia-Pacific wit
 
 See more about [our current IT team](http://www.hotelquickly.com/jobs/join-it-starteam).
 
-**We are looking for an iPhone developer who wants to help us to create an outstanding mobile application.**
+**We are looking for an iOS developer who wants to help us to create an outstanding mobile application.**
 
 ### About you
 
