@@ -17,7 +17,7 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 ## Hiring process
 
-**You** - fill in [this Google form](https://docs.google.com/a/hotelquickly.com/forms/d/1gGZYgjzAU0rUOCVOqQ_X7dd3x-u8DI8JBmX6QwuZD0k/viewform)
+**You** - fill in [this Google form](https://docs.google.com/forms/d/1gGZYgjzAU0rUOCVOqQ_X7dd3x-u8DI8JBmX6QwuZD0k/viewform)
 
 * you can apply if
    * you are REALLY REALLY good in the areas mentioned above
