@@ -71,7 +71,7 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 **You** - move to Thailand (if you're not here already), get a nice flat, motor-bike, Thai girlfriend, ... whatever makes you [happy](http://www.youtube.com/watch?v=y6Sxv-sUYtM)
 
-## Compensation
+## Compensation & perks
 
 **Package 2-for-1** - if you have a wife who's a developer, we'll hire you both and will pay for one ;-)
 
@@ -83,6 +83,8 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 **Relocation** - do you need to relocate? We might cover some of your expenses including work permit and business visa.
 
+**Free customer service shift** - do you want to get to know our customers better? Night shifts are waiting for you :)
+
 ---
 
 [![Venture Beat](http://www.hotelquickly.com/img/logos/vb.png)](http://venturebeat.com/2013/06/25/same-day-booking-app-hotelquickly-claims-dominance-in-asia-before-rival-hoteltonight/)
@@ -92,6 +94,28 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 [![The Next Web](http://www.hotelquickly.com/img/logos/tnw.png)](http://thenextweb.com/apps/2013/07/21/asia-focused-hotelquickly-now-lets-travellers-make-multiple-night-hotel-bookings/)
 
 ---
+
+## Onboarding
+
+Your first day:
+
+* We'll introduce you to everyone and will invite you for a *new-joiners' lunch*.
+* You'll get access to all our systems - especially the Backend is full of surprises.
+* You'll check our internal wiki to get first insights.
+
+Your first week:
+
+* You'll have your first customer service shift to get the insights from users and customers.
+* We'll have a few sessions explaining the product and business into details.
+* You'll have a training to get you on the ground running with some of our tools
+* You'll check all competitors and their apps to make sure you know why are we different / better.
+
+Your first month:
+
+* You'll start working on IT support (which is a lot of fun indeed).
+* One of our *CxO's* will show you the places Bangkok is famous for.
+* Most likely you'll get an invitation to a super-healthy BIO dinner.
+* And most importantly, you'll learn lots of new stuff.
 
 ## Open-source
 
