@@ -14,3 +14,5 @@ In product development, we have these positions open:
 
 ## Hiring process
 
+## Compensation packages
+
