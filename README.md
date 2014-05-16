@@ -136,4 +136,4 @@ Reach out: it-jobs@hotelquickly.com
 
 ---
 
-Prepared with ♥ by [Michal](michal.juhas@hotelquickly.com)
+Prepared with ♥ by [Michal](mailto:michal.juhas@hotelquickly.com)
