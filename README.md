@@ -10,3 +10,7 @@ In product development, we have these positions open:
   * [Node.js](https://github.com/HotelQuickly/WeAreHiring/blob/master/Nodejs.md) engineer
 * [Quality assurance](https://github.com/HotelQuickly/WeAreHiring/blob/master/QualityAssurance.md) manager
 * [Server admin](https://github.com/HotelQuickly/WeAreHiring/blob/master/Server-admin.md) / release engineer
+
+
+## Hiring process
+
