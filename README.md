@@ -113,7 +113,7 @@ Your first week:
 Your first month:
 
 * You'll start working on IT support (which is a lot of fun indeed).
-* One of our *CxO's* will show you the places Bangkok is famous for.
+* One of our [CxO's](http://www.hotelquickly.com/about-us) will show you the places Bangkok is famous for.
 * Most likely you'll get an invitation to a super-healthy BIO dinner.
 * And most importantly, you'll learn lots of new stuff.
 
