@@ -10,6 +10,16 @@ Oh, and we raised $1.1m USD from various investors in Asia, Europe and the U.S. 
 
 **We are looking for an iOS developer who wants to help us to create an outstanding mobile application.**
 
+---
+
+[![Venture Beat](http://www.hotelquickly.com/img/logos/vb.png)](http://venturebeat.com/2013/06/25/same-day-booking-app-hotelquickly-claims-dominance-in-asia-before-rival-hoteltonight/)
+[![TechCrunch](http://www.hotelquickly.com/img/logos/tech_crunch.png)](http://techcrunch.com/2013/03/20/hotelquickly/)
+[![BBC](http://www.hotelquickly.com/img/logos/bbc.png)](http://www.bbc.co.uk/programmes/p019byld)
+[![Tech In Asia](http://www.hotelquickly.com/img/logos/tech_in_asia.png)](http://www.techinasia.com/hotelquickly-books-your-hotels-really-quickly/)
+[![The Next Web](http://www.hotelquickly.com/img/logos/tnw.png)](http://thenextweb.com/apps/2013/07/21/asia-focused-hotelquickly-now-lets-travellers-make-multiple-night-hotel-bookings/)
+
+---
+
 ### About you
 
 You've built several iOS applications and our initial assignments during the [interview process](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#hiring-process) will be a walk in a park for you ;-)
