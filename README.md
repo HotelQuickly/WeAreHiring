@@ -13,6 +13,8 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 * [Quality assurance](https://github.com/HotelQuickly/WeAreHiring/blob/master/QualityAssurance.md) manager
 * [Server admin](https://github.com/HotelQuickly/WeAreHiring/blob/master/Server-admin.md) / release engineer
 
+![From the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/img/photos-from-the-office.png)
+
 ## Hiring process
 
 **You** - fill in this first-contact Google form
