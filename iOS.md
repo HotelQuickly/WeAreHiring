@@ -36,7 +36,7 @@ We're still small but we recognise that we need to pay well to get the talent we
 
 But we offer much more to make you happy - check the [compensation packages](https://github.com/HotelQuickly/WeAreHiring/blob/master/compensation/compensation-package.md).
 
-### Hiring process
+### How to apply?
 
 The full hiring process is [described here](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#hiring-process). RTFM and apply.
 
