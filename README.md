@@ -133,3 +133,7 @@ Feel free to check our company's [GitHub account](https://github.com/HotelQuickl
 ## Questions?
 
 Reach out: it-jobs@hotelquickly.com 
+
+---
+
+Prepared with ♥ by [Michal](michal.juhas@hotelquickly.com)
