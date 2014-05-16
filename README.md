@@ -25,6 +25,13 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 * don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore / PlayStore)
 * attach references, if you have any
 
+**You** can apply if
+
+* you are REALLY REALLY good in the areas mentioned above
+* you want to have some fun at work. No boring stuff!
+* you are able to join us asap in the Bangkok office and on [Soi Cowboy](https://www.google.com/search?q=soi+cowboy&tbm=isch&tbo=u&sa=X)
+* you want to help us build a superb product!
+
 **Us** - we'll receive a notification and based on the cover letter and CV we will either thank you *(ups)* or schedule a Skype call
 
 **You** - prepare for the Skype call
@@ -72,3 +79,14 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 **Hotel vouchers** - arrived to Bangkok and have nowhere to sleep? We'll provide you vouchers for a few days
 
 **Relocation** - do you need to relocate? We might cover some of your expenses
+
+
+## Open-source
+
+We also open-source some of our internal projects, for example:
+
+* [DbHistory](https://github.com/HotelQuickly/DbHistory) – MySQL packages that runs in the background and keep history of every single change in all rows
+* [DbDump](https://github.com/HotelQuickly/DbDump) – Python script to easily dump Live database to development or test environment
+
+Feel free to check our company's [GitHub account](https://github.com/HotelQuickly/).
+
