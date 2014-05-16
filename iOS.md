@@ -40,4 +40,4 @@ But we offer much more to make you happy - check the [compensation packages](htt
 
 The full hiring process is [described here](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#hiring-process). RTFM and apply.
 
-PS: No brogrammers / ninjas / rockstars, please.
+*No brogrammers / ninjas / rockstars, please.*
