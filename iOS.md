@@ -22,9 +22,13 @@ You've built several iOS applications and our initial assignments during the int
 
 ### Location
 
-Our headquarters including the full engineering team is in Bangkok. We have a beautiful office here full of snacks and Coke.
+You'll be working in our office in Bangkok, directly with all the other engineers and the tech co-founder. We have a beautiful office here full of snacks and Coke.
 
 Our working hours are typically 10am-8pm, but it's pretty flexible. Some of us start early morning (8am), some of us start later and work until midnight.
+
+### Communication
+
+We communicate over HipChat. Sometimes even when we sit next to each other ;-) to not disturb each other when we're *in the zone.* In HipChat, each topic or project has its own room and we use mentions to notify when there's something important. Jim is also posting there some funny *.gif* images.
 
 ### Compensation
 
@@ -32,6 +36,8 @@ We're still small but we recognise that we need to pay well to get the talent we
 
 But we offer much more to make you happy - check the [compensation packages](https://github.com/HotelQuickly/WeAreHiring/blob/master/compensation/compensation-package.md).
 
-### How to apply
+### Hiring process
+
+The full hiring process is [described here](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#hiring-process). RTFM and apply.
 
 PS: No brogrammers / ninjas / rockstars, please.
