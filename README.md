@@ -60,6 +60,10 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 * this call will be full of pair programming - we're having some great assignments waiting for you
 * get ready for that, it will be fun :)
 
+**You** - if you are in Bangkok, we should meet - let's schedule a quick coffee together
+
+* and if you are abroad... let's see
+
 **You** - start working on an audition project
 
 * if we really really like you, we'll ask you to help us to solve some real issues we're currently solving
