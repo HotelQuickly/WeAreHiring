@@ -20,6 +20,8 @@ You want to develop a world class iPhone application and creatively contribute t
 
 ### The job and the challenges
 
+
+
 ### Location
 
 You'll be working in our office in Bangkok, directly with all the other engineers and the tech co-founder. We have a beautiful office here full of snacks and Coke.
@@ -32,12 +34,12 @@ We communicate over HipChat. Sometimes even when we sit next to each other ;-) t
 
 ### Compensation
 
-We're still small but we recognise that we need to pay well to get the talent we need. To really (I mean REALLY) good candidates we can offer equity.
+We're still small but we recognise that we need to pay well to get the talent we need. To really (I mean *REALLY*) good candidates we can offer equity.
 
 But we offer much more to make you happy - check the [compensation packages](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#compensation-packages).
 
 ### How to apply?
 
-The full hiring process is [described here](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#hiring-process). RTFM and apply.
+Do you want to enjoy some fun while working with us? Then check next steps in our [hiring process](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#hiring-process). RTFM and apply.
 
 *No brogrammers / ninjas / rockstars, please.*
