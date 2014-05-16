@@ -17,6 +17,11 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 **You** - fill in this first-contact Google form
 
+* you can apply if
+   * you are REALLY REALLY good in the areas mentioned above
+   * you want to have some fun at work. No boring stuff!
+   * you are able to join us asap in the Bangkok office and on [Soi Cowboy](https://www.google.com/search?q=soi+cowboy&tbm=isch&tbo=u&sa=X)
+   * you want to help us build a superb product!
 * we'd love to see who you are and what have you been working on
 * attach brief motivation letter and your CV
 * specify which position are you applying for (can even apply for more!)
@@ -25,12 +30,6 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 * don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore / PlayStore)
 * attach references, if you have any
 
-**You** can apply if
-
-* you are REALLY REALLY good in the areas mentioned above
-* you want to have some fun at work. No boring stuff!
-* you are able to join us asap in the Bangkok office and on [Soi Cowboy](https://www.google.com/search?q=soi+cowboy&tbm=isch&tbo=u&sa=X)
-* you want to help us build a superb product!
 
 **Us** - we'll receive a notification and based on the cover letter and CV we will either thank you *(ups)* or schedule a Skype call
 
