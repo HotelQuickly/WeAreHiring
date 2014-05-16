@@ -1,6 +1,6 @@
 # Open positions
 
-In product development, we have these positions open:
+In [engineering](http://engineering.hotelquickly.com), we have these positions open:
 
 * Mobile app developers
   * [iOS](https://github.com/HotelQuickly/WeAreHiring/blob/master/iOS.md) engineer
