@@ -5,11 +5,11 @@
 In [engineering](http://engineering.hotelquickly.com), we have these positions open:
 
 * Mobile app developers
-  * [iOS](https://github.com/HotelQuickly/WeAreHiring/blob/master/iOS.md) engineer
   * [Android](https://github.com/HotelQuickly/WeAreHiring/blob/master/Android.md) engineer
+  * [iOS](https://github.com/HotelQuickly/WeAreHiring/blob/master/iOS.md) engineer
 * Backend developers
-  * [PHP](https://github.com/HotelQuickly/WeAreHiring/blob/master/PHP.md) engineer
   * [Node.js](https://github.com/HotelQuickly/WeAreHiring/blob/master/Nodejs.md) engineer
+  * [PHP](https://github.com/HotelQuickly/WeAreHiring/blob/master/PHP.md) engineer
 * [Quality assurance](https://github.com/HotelQuickly/WeAreHiring/blob/master/QualityAssurance.md) manager
 * [Server admin](https://github.com/HotelQuickly/WeAreHiring/blob/master/Server-admin.md) / release engineer
 
@@ -17,7 +17,7 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 ## Hiring process
 
-**You** - fill in this first-contact Google form
+**You** - fill in [this Google form](https://docs.google.com/a/hotelquickly.com/forms/d/1gGZYgjzAU0rUOCVOqQ_X7dd3x-u8DI8JBmX6QwuZD0k/viewform)
 
 * you can apply if
    * you are REALLY REALLY good in the areas mentioned above
