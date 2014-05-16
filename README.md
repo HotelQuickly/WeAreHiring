@@ -82,10 +82,11 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 **Relocation** - do you need to relocate? We might cover some of your expenses
 
 
-![TechCrunch](http://www.hotelquickly.com/img/logos/tech_crunch.png)
-![Tech In Asia](http://www.hotelquickly.com/img/logos/tech_in_asia.png)
-![The Next Web](http://www.hotelquickly.com/img/logos/tnw.png)
-![BBC](http://www.hotelquickly.com/img/logos/bbc.png)
+[![TechCrunch](http://www.hotelquickly.com/img/logos/tech_crunch.png)](http://techcrunch.com/2013/03/20/hotelquickly/)
+[![Tech In Asia](http://www.hotelquickly.com/img/logos/tech_in_asia.png)](http://www.techinasia.com/hotelquickly-books-your-hotels-really-quickly/)
+[![The Next Web](http://www.hotelquickly.com/img/logos/tnw.png)](http://thenextweb.com/apps/2013/07/21/asia-focused-hotelquickly-now-lets-travellers-make-multiple-night-hotel-bookings/)
+[![BBC](http://www.hotelquickly.com/img/logos/bbc.png)](http://www.bbc.co.uk/programmes/p019byld)
+[![Venture Beat](http://www.hotelquickly.com/img/logos/vb.png)](http://venturebeat.com/2013/06/25/same-day-booking-app-hotelquickly-claims-dominance-in-asia-before-rival-hoteltonight/)
 
 
 ## Open-source
