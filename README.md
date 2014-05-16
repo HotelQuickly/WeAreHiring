@@ -23,7 +23,7 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
    * you are REALLY REALLY good in the areas mentioned above
    * you want to have some fun at work. No boring stuff!
    * you are able to join us asap in the Bangkok office and on [Soi Cowboy](https://www.google.com/search?q=soi+cowboy&tbm=isch&tbo=u&sa=X)
-   * you want to help us build a superb product!
+   * you want to help us build a superb product
 * we'd love to see who you are and what have you been working on
 * attach brief motivation letter and your CV
 * specify which position are you applying for (can even apply for more!)
@@ -67,7 +67,7 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 * exciting, right? :)
 
-**You** - move to Thailand (if you're not here already), get a nice flat, motor-bike, Thai girlfriend, ... whatever to make you happy
+**You** - move to Thailand (if you're not here already), get a nice flat, motor-bike, Thai girlfriend, ... whatever makes you [happy](http://www.youtube.com/watch?v=y6Sxv-sUYtM)
 
 ## Compensation packages
 
