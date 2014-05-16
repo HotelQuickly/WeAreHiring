@@ -10,13 +10,13 @@ See more about [our current IT team](http://www.hotelquickly.com/jobs/join-it-st
 
 ### About you
 
-You want to develop a world class iPhone application and creatively contribute to ongoing development.
+You've built several iOS applications and our initial assignments during the [interview process](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#hiring-process) will be a walk in a park for you ;-)
 
 Hopefully you'll have some published code (in any language, maybe on GitHub?) that we can take a look at.
 
-We don't really care about your level of formal education, math skill, and so on. We want to see that you know your stuff.
+Honestly, we don't really care about your level of formal education, math skill, and so on. We want to see that you know the shit.
 
-You've built several iOS applications and our initial assignments during the interview process will be a walk in a park ;-)
+You want to develop a world class iPhone application and creatively contribute to ongoing development.
 
 ### The job and the challenges
 
