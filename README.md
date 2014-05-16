@@ -71,9 +71,9 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 **You** - move to Thailand (if you're not here already), get a nice flat, motor-bike, Thai girlfriend, ... whatever makes you [happy](http://www.youtube.com/watch?v=y6Sxv-sUYtM)
 
-## Compensation packages
+## Compensation
 
-**2-for-1** - if you have a wife who's a developer, we'll hire you both and will pay for one ;-)
+**Package 2-for-1** - if you have a wife who's a developer, we'll hire you both and will pay for one ;-)
 
 **Friday pizza** - we're buying pizza for everyone on Friday. Happy hour!
 
