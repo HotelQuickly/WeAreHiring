@@ -17,6 +17,7 @@ Oh, and we raised $1.1m USD from various investors in Asia, Europe and the U.S. 
 [![BBC](http://www.hotelquickly.com/img/logos/bbc.png)](http://www.bbc.co.uk/programmes/p019byld)
 [![Tech In Asia](http://www.hotelquickly.com/img/logos/tech_in_asia.png)](http://www.techinasia.com/hotelquickly-books-your-hotels-really-quickly/)
 [![The Next Web](http://www.hotelquickly.com/img/logos/tnw.png)](http://thenextweb.com/apps/2013/07/21/asia-focused-hotelquickly-now-lets-travellers-make-multiple-night-hotel-bookings/)
+[![Tnooz](http://www.hotelquickly.com/img/logos/tnooz.png)](http://www.tnooz.com/2013/05/03/tlabs/hotelquickly-heats-up-the-last-minute-hotel-booking-model-in-asia/)
 
 ---
 
