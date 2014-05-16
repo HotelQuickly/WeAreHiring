@@ -40,7 +40,7 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 **You** - prepare for the Skype call
 
 * Download the HotelQuickly application (iOS, Android or BlackBerry)
-* Prepare a list of things you suggest to improve (go into details)
+* Prepare a list of things you suggest to improve in the app (go into details)
 
 **Us** - we'll schedule the Skype call with you with the following agenda:
 
