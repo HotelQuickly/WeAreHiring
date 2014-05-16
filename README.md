@@ -82,6 +82,12 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 **Relocation** - do you need to relocate? We might cover some of your expenses
 
 
+![TechCrunch](http://www.hotelquickly.com/img/logos/tech_crunch.png)
+![Tech In Asia](http://www.hotelquickly.com/img/logos/tech_in_asia.png)
+![The Next Web](http://www.hotelquickly.com/img/logos/tnw.png)
+![BBC](http://www.hotelquickly.com/img/logos/bbc.png)
+
+
 ## Open-source
 
 We also open-source some of our internal projects, for example:
