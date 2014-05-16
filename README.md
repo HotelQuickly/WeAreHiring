@@ -83,7 +83,7 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 **Relocation** - do you need to relocate? We might cover some of your expenses including work permit and business visa.
 
-**Free customer service shift** - do you want to get to know our customers better? Night shifts are waiting for you :)
+**Free customer service shift** - do you want to get to know our customers? Night shifts are waiting for you :)
 
 ---
 
