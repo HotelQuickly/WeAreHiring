@@ -125,7 +125,7 @@ Your first month:
 
 ## Your personal growth
 
-We want you to grow...*quickly!* [Here's the plan](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/personal-growth.md).
+We want you to grow...*quickly*! And [here's the plan](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/personal-growth.md).
 
 ## Open-source
 
