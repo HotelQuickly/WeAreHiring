@@ -16,7 +16,9 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 * [Server admin](https://github.com/HotelQuickly/WeAreHiring/blob/master/Server-admin.md) / release engineer
 * [Internship](https://github.com/HotelQuickly/WeAreHiring/blob/master/Internship.md)
 
-![From the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/img/photos-from-the-office.png)
+[![From the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/img/photos-from-the-office.png)](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
+
+See more photos [in our gallery](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649).
 
 ## Hiring process
 
