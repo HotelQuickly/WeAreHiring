@@ -24,7 +24,9 @@ During the weekdays we have street food and on weekends go for a restaurant.
 * 10.000 THB - 1 bedroom apartment outside of City Centre
 * 20.000 THB - 1 bedroom apartment in City Centre
 * 1.000 THB - monthly electricity bill (including air-con)
+* 700 THB - fast internet connection (10 Mbps)
 * 200 THB - monthly bill for apartment services
+
 
 # Your expected costs
 
