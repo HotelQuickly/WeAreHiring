@@ -14,6 +14,7 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
   * [PHP](https://github.com/HotelQuickly/WeAreHiring/blob/master/PHP.md) engineer
 * [Quality assurance](https://github.com/HotelQuickly/WeAreHiring/blob/master/QualityAssurance.md) manager
 * [Server admin](https://github.com/HotelQuickly/WeAreHiring/blob/master/Server-admin.md) / release engineer
+* [Internship](https://github.com/HotelQuickly/WeAreHiring/blob/master/Internship.md)
 
 ![From the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/img/photos-from-the-office.png)
 
