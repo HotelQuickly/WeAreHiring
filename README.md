@@ -76,6 +76,14 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 **You** - move to Thailand (if you're not here already), get a nice flat, motor-bike, Thai girlfriend, ... whatever makes you [happy](http://www.youtube.com/watch?v=y6Sxv-sUYtM)
 
+## How does it work at HotelQuickly?
+
+Byte, Jim and Josef wrote short posts in our [engineering blog](http://engineering.hotelquickly.com) about their work with us.
+
+* [Byte: How does it work at HotelQuickly?](http://engineering.hotelquickly.com/2014/05/15/byte-working-at-hotelquickly/)
+* [Jim: How does it work at HotelQuickly?](http://engineering.hotelquickly.com/2014/05/16/jim-working-at-hotelquickly/)
+* Josef: How does it work at HotelQuickly?
+
 ## Compensation & perks
 
 **Package 2-for-1** - if you have a wife who's a developer, we'll hire you both and will pay for one ;-)
