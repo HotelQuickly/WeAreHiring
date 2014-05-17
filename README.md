@@ -89,6 +89,8 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 **Free customer service shift** - do you want to get to know our customers? Night shifts are waiting for you :)
 
+Want to know how much $$$ do you need in Bangkok? Check our overview of [living costs in BKK](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/living-costs-in-BKK.md)
+
 ---
 
 [![Venture Beat](http://www.hotelquickly.com/img/logos/vb.png)](http://venturebeat.com/2013/06/25/same-day-booking-app-hotelquickly-claims-dominance-in-asia-before-rival-hoteltonight/)
