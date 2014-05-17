@@ -123,6 +123,10 @@ Your first month:
 * Most likely you'll get an invitation to a super-healthy BIO dinner.
 * And most importantly, you'll learn lots of new stuff.
 
+## Your personal growth
+
+We want you to grow...*quickly!* [Here's the plan](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/personal-growth.md).
+
 ## Open-source
 
 We also open-source some of our internal projects, for example:
