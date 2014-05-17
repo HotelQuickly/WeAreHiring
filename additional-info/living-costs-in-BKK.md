@@ -45,3 +45,7 @@ Average monthly costs:
 * Total: 30.000 THB
 
 You can expect to spend roughly 50.000 THB per month.
+
+---
+
+Prepared with ♥ by [Michal](mailto:michal.juhas@hotelquickly.com)
