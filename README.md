@@ -62,7 +62,7 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 **You** - if you are in Bangkok, we should meet - let's schedule a quick coffee together
 
-* and if you are abroad... let's see
+* and if you are abroad... well, that will be a challenge
 
 **You** - start working on an audition project
 
