@@ -40,3 +40,6 @@ We encourage you to learn as much possible and implement the best practices in o
 
 If you're not fluent in English, you'll improve it quickly. We're a multi-national team and use EN in oral and written communication.
 
+---
+
+Prepared with ♥ by [Michal](mailto:michal.juhas@hotelquickly.com)
