@@ -33,7 +33,27 @@ You want to develop a world class iPhone application and creatively contribute t
 
 ### The job and the challenges
 
+We expect you to take ownership of the iOS application (iPhone & iPad versions). That means you should be
 
+* watching trends and best practices in iOS development
+* reading iOS-related blogs and compiling ideas how to improve our app
+* going for iOS-related meetups in Bangkok discussing some of the recent challenges and how to handle them
+* getting feedback about the app from users wherever you go and making sure it's implemented
+* able to quicky implement things requested by business / sales
+* able to work in a team with other iOS developers
+
+On a more technical note, you need to know how to handle the entire software development life cycle, end to end, including working with
+
+* CocoaPods
+* webviews
+* push notifications
+* story-boards
+* 2D animations
+* i18n
+* caching & pre-loading
+* local storage
+* JSON APIs
+* version control repositories (preferably ```git```)
 
 ### Location
 
