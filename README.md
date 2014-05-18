@@ -88,7 +88,7 @@ Byte, Jim and Josef wrote short posts in our [engineering blog](http://engineeri
 
 * [Byte: How does it work at HotelQuickly?](http://engineering.hotelquickly.com/2014/05/15/byte-working-at-hotelquickly/)
 * [Jim: How does it work at HotelQuickly?](http://engineering.hotelquickly.com/2014/05/16/jim-working-at-hotelquickly/)
-* [Josef: Why to work in HotelQuickly?](http://engineering.hotelquickly.com/2014/05/18/josef-working-at-hotelquickly/)
+* [Josef: Why to work at HotelQuickly?](http://engineering.hotelquickly.com/2014/05/18/josef-working-at-hotelquickly/)
 
 ## Compensation & perks
 
