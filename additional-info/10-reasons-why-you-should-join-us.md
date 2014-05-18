@@ -2,6 +2,8 @@
 
 ## It's a lot of fun with us
 
+@todo - add photos
+
 ## Our team is full of professionals
 
 The co-founding team consists of [5 experienced entrepreneurs](http://www.hotelquickly.com/about-us).
@@ -30,10 +32,10 @@ You can easily travel to other destinations such as Bali (Indonesia), Singapore,
 
 Add photos
 
-## todo
+## @todo
 
-## todo
+## @todo
 
-## todo
+## @todo
 
-## todo
+## @todo
