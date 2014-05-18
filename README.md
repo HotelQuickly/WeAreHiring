@@ -22,8 +22,12 @@ See more photos [in our gallery](https://plus.google.com/photos/1003920056269038
 
 ## Hiring process
 
-**You** - apply for one of the position above by [filling in this Google form](https://docs.google.com/forms/d/1gGZYgjzAU0rUOCVOqQ_X7dd3x-u8DI8JBmX6QwuZD0k/viewform)
+**You** - apply for one of the position above by [filling in this application form](https://docs.google.com/forms/d/1gGZYgjzAU0rUOCVOqQ_X7dd3x-u8DI8JBmX6QwuZD0k/viewform)
 
+* the  [application form](https://docs.google.com/forms/d/1gGZYgjzAU0rUOCVOqQ_X7dd3x-u8DI8JBmX6QwuZD0k/viewform) is divided into 3 steps:
+   * your name, email, telephone, URLs to your public profiles etc.
+   * your portfolio - projects you've been working on
+   * your skills relevant to the position you're applying for
 * you can apply if
    * you are REALLY REALLY good in the areas mentioned above
    * you want to have some fun at work. No boring stuff!
