@@ -26,7 +26,7 @@ Don't know what to do in Bangkok? Check out these [20 great things to do in Bang
 
 ## We've got a great office
 
-Such an amazing view on on the 20. floor, right?
+Such an amazing view on the 20. floor, right?
 
 ![HQ open-space office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/open-space-office.jpg)
 
