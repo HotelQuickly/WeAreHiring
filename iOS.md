@@ -7,7 +7,7 @@
 Recently we were featured on TechCrunch, CBS, NBC, e27, TechInAsia, TheNextWeb, Yahoo, Tnooz and [zillions of others](http://www.hotelquickly.com/press).
 
 Oh, and we raised $1.1m USD from various investors in Asia, Europe and the U.S. So let's help us make this company HUGE!
-
+c
 **We are looking for an iOS developer who wants to help us to create an outstanding mobile application.**
 
 ---
@@ -71,7 +71,7 @@ We communicate over HipChat. Sometimes even when we sit next to each other ;-) t
 
 We're still small but we recognise that we need to pay well to get the talent we need. To really (I mean *REALLY*) good candidates we can offer equity.
 
-But we offer much more to make you happy - check the [compensation packages](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#compensation-packages).
+But we offer much more to make you happy - check the [compensation packages](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#compensation--perks).
 
 ### How to apply?
 
