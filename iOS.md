@@ -59,6 +59,8 @@ On a more technical note, you need to know how to handle the entire software dev
 
 You'll be working in our office in Bangkok, directly with all the other engineers and the tech co-founder. We have a beautiful office here full of snacks and Coke.
 
+See some photos [in our gallery](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649).
+
 Our working hours are typically 10am-8pm, but it's pretty flexible. Some of us start early morning (8am), some of us start later and work until midnight.
 
 ### Communication
