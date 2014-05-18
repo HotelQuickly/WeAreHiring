@@ -142,9 +142,9 @@ Your first month:
 
 We want you to grow...*quickly*! And [here's the plan](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/personal-growth.md).
 
-## Why you should join us?
+## Why should you join us?
 
-We really think it's a great opportunity for anyone to join HotelQuickly and compiled [10 reasons why you should join us](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/10-reasons-why-you-should-join-us.md)
+We really think it's a great opportunity for anyone to join HotelQuickly and compiled [10 reasons why you should join us](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/10-reasons-why-you-should-join-us.md).
 
 ## Open-source
 
