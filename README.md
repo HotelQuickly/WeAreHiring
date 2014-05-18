@@ -18,7 +18,7 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 [![From the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/photos-from-the-office.png)](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
 
-See more photos [in our gallery](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649).
+See more photos [in our gallery](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649) and check [10 reasons why you should join us](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/10-reasons-why-you-should-join-us.md).
 
 ## Hiring process
 
@@ -137,6 +137,10 @@ Your first month:
 ## Your personal growth
 
 We want you to grow...*quickly*! And [here's the plan](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/personal-growth.md).
+
+## Why you should join us?
+
+We really think it's a great opportunity for anyone to join HotelQuickly and compiled [10 reasons why you should join us](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/10-reasons-why-you-should-join-us.md)
 
 ## Open-source
 
