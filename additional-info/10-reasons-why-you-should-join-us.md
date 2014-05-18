@@ -1,9 +1,5 @@
 # Top 10 reasons why you should join us
 
-## It's a lot of fun with us
-
-@todo - add photos
-
 ## Our team is full of professionals
 
 The co-founding team consists of [5 experienced entrepreneurs](http://www.hotelquickly.com/about-us).
@@ -34,10 +30,29 @@ Such an amazing view on on the 20. floor, right?
 
 ![HQ open-space office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/open-space-office.jpg)
 
-## @todo
+## We organize crazy parties
 
-## @todo
+Work hard, party hard :)
 
-## @todo
+[![1st anniversary party](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/1st-anniversary-party-abhi-gin-jovan-jovel.jpg)](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
 
-## @todo
+See more photos from the party [in the gallery](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649).
+
+## It's a lot of fun with us
+
+Lot's of fun in the office and also outside, i.e. we went for a weekend trip to Pattaya:
+
+![In a micro-bus to Pattaya](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/in-a-bus-to-pattaya.jpg)
+
+## We're in pretty hot industry
+
+Mobile apps & Last-minute hotel booking - is there something more attractive?
+
+## We encourage you to lear new stuff
+
+We want you to try new things, implement best practices, shortcuts and crazy workarounds. Propper hacking!
+
+## We have Friday pizzas
+
+Pizza on Friday for everyone. All you can eat.
+
