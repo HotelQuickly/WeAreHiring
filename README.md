@@ -7,16 +7,16 @@
 In [engineering](http://engineering.hotelquickly.com), we have these positions open:
 
 * Mobile app developers
-  * [Android](https://github.com/HotelQuickly/WeAreHiring/blob/master/Android.md) engineer
-  * [iOS](https://github.com/HotelQuickly/WeAreHiring/blob/master/iOS.md) engineer
+  * [Android](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Android.md) engineer
+  * [iOS](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/iOS.md) engineer
 * Backend developers
-  * [Node.js](https://github.com/HotelQuickly/WeAreHiring/blob/master/Nodejs.md) engineer
-  * [PHP](https://github.com/HotelQuickly/WeAreHiring/blob/master/PHP.md) engineer
-* [Quality assurance](https://github.com/HotelQuickly/WeAreHiring/blob/master/QualityAssurance.md) manager
-* [Server admin](https://github.com/HotelQuickly/WeAreHiring/blob/master/Server-admin.md) / release engineer
-* [Internship](https://github.com/HotelQuickly/WeAreHiring/blob/master/Internship.md)
+  * [Node.js](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Nodejs.md) engineer
+  * [PHP](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/PHP.md) engineer
+* [Quality assurance](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/QualityAssurance.md) manager
+* [Server admin](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Server-admin.md) / release engineer
+* [Internship](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Internship.md)
 
-[![From the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/img/photos-from-the-office.png)](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
+[![From the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/photos-from-the-office.png)](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
 
 See more photos [in our gallery](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649).
 
@@ -149,7 +149,7 @@ Feel free to check our company's [GitHub account](https://github.com/HotelQuickl
 
 ## Questions?
 
-Reach out: it-jobs@hotelquickly.com 
+Reach out: it-jobs@hotelquickly.com
 
 ---
 
