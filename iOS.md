@@ -29,7 +29,7 @@ Hopefully you'll have some published code (in any language, maybe on GitHub?) th
 
 Honestly, we don't really care about your level of formal education, math skill, and so on. We want to see that you know the shit.
 
-You want to develop a world class iPhone application and creatively contribute to ongoing development.
+You want to develop a world class iPhone & iPad applications and creatively contribute to ongoing development.
 
 ### The job and the challenges
 
