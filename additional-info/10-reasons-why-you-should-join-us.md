@@ -32,7 +32,7 @@ Such an amazing view on on the 20. floor, right?
 
 ## We organize crazy parties
 
-Work hard, party hard :)
+Work hard, party hard :-)
 
 [![1st anniversary party](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/1st-anniversary-party-abhi-gin-jovan-jovel.jpg)](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
 
@@ -48,9 +48,9 @@ Lot's of fun in the office and also outside, i.e. we went for a weekend trip to 
 
 Mobile apps & Last-minute hotel booking - is there something more attractive?
 
-## We encourage you to lear new stuff
+## We encourage you to learn new stuff
 
-We want you to try new things, implement best practices, shortcuts and crazy workarounds. Propper hacking!
+We want you to try new things, implement best practices, shortcuts and crazy workarounds. Proper hacking!
 
 ## We have Friday pizzas
 
