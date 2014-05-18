@@ -39,21 +39,18 @@ We expect you to take ownership of the iOS application (iPhone & iPad versions).
 * reading iOS-related blogs and compiling ideas how to improve our app
 * going for iOS-related meetups in Bangkok discussing some of the recent challenges and how to handle them
 * getting feedback about the app from users wherever you go and making sure it's implemented
-* able to quicky implement things requested by business / sales
+* able to quickly implement things requested by business / sales
+* proactively suggesting improvements
 * able to work in a team with other iOS developers
 
-On a more technical note, you need to know how to handle the entire software development life cycle, end to end, including working with
+On a more technical note, you need to know how to handle the entire software development life cycle, start to end, meaning:
 
-* CocoaPods
-* webviews
-* push notifications
-* story-boards
-* 2D animations
-* i18n
-* caching & pre-loading
-* local storage
-* JSON APIs
-* version control repositories (preferably ```git```)
+* managing third party libraries with CocoaPods
+* using storyboards or nibs with autolayout, but also creating views in code
+* using core animations and core graphics (we want the most beatiful app out there)
+* using core data and webservices with JSON (data must flow)
+* handling multiple languages (we speak 5 languages and counting)
+* using version control (we use ```git```, there is something else?)
 
 ### Location
 
