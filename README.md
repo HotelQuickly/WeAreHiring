@@ -80,7 +80,7 @@ See more photos [in our gallery](https://plus.google.com/photos/1003920056269038
 
 * exciting, right? :)
 
-**You** - move to Thailand (if you're not here already), get a nice flat, motor-bike, Thai girlfriend, ... whatever makes you [happy](http://www.youtube.com/watch?v=y6Sxv-sUYtM)
+**You** - move to Thailand (if you're not here already), find a nice flat, rent a motor-bike, get a Thai girlfriend, ... whatever makes you [happy](http://www.youtube.com/watch?v=y6Sxv-sUYtM).
 
 ## How does it work at HotelQuickly?
 
