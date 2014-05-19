@@ -2,6 +2,8 @@
 
 In case you want to relocate to Bangkok, here's an overview of the living costs you can expect.
 
+**Disclaimer:** there's no *one size fits all,* thus the numbers below reflect our personal experience from living in Bangkok for 1.5 years. To compare two cities, check also [comparison on Numbeo.com](http://www.numbeo.com/cost-of-living/comparison.jsp).
+
 # Food
 
 During the weekdays we have street food and on weekends go for a restaurant.
@@ -26,7 +28,6 @@ During the weekdays we have street food and on weekends go for a restaurant.
 * 1.000 THB - monthly electricity bill (including air-con)
 * 700 THB - fast internet connection (10 Mbps)
 * 200 THB - monthly bill for apartment services
-
 
 # Your expected costs
 
