@@ -31,21 +31,25 @@ During the weekdays we have street food and on weekends go for a restaurant.
 
 # Your expected costs
 
-Average daily costs:
+Average costs for food:
 
 * 100 THB - breakfast
 * 50 THB - lunch
 * 150 THB - dinner
 * 100 THB - other
-* Total: 400 THB + buffer = 500 THB / day = roughly 20.000 per month
+* Total: 400 THB = roughly 12.000 per month
 
 Average monthly costs:
 
-* 20.000 THB - apartment
-* 10.000 THB - transportation + other + buffer
-* Total: 30.000 THB
+* 20.000 THB - apartment (nice one bedroom 60sq meters for 2 people)
+* 8.000 THB - transportation + other + buffer
+* Total: 28.000 THB
 
-You can expect to spend roughly 50.000 THB per month.
+Buffer:
+
+* 10.000 - additional expenses that migh occur (travelling to TH islands etc.)
+
+You can expect to spend roughly 40.000 THB per month + keep additional 10.000 THB as a buffer.
 
 ---
 
