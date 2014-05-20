@@ -31,13 +31,13 @@ During the weekdays we have street food and on weekends go for a restaurant.
 
 # Your expected costs
 
-Average costs for food:
+Average daily costs for food:
 
 * 100 THB - breakfast
 * 50 THB - lunch
 * 150 THB - dinner
 * 100 THB - other
-* Total: 400 THB = roughly **12.000 THB**
+* Total: 400 THB = roughly **12.000 THB** per month
 
 Average monthly costs:
 
