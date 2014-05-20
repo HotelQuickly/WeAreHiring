@@ -37,19 +37,19 @@ Average costs for food:
 * 50 THB - lunch
 * 150 THB - dinner
 * 100 THB - other
-* Total: 400 THB = roughly 12.000 per month
+* Total: 400 THB = roughly **12.000 THB**
 
 Average monthly costs:
 
 * 20.000 THB - apartment (nice one bedroom 60sq meters for 2 people)
 * 8.000 THB - transportation + other + buffer
-* Total: 28.000 THB
+* Total: **28.000 THB**
 
 Buffer:
 
-* 10.000 - additional expenses that migh occur (travelling to TH islands etc.)
+* **10.000 THB** - additional expenses that migh occur (travelling to TH islands etc.)
 
-You can expect to spend roughly 40.000 THB per month + keep additional 10.000 THB as a buffer.
+You can expect to spend roughly **40.000 THB per month** + keep additional **10.000 THB** as a buffer.
 
 ---
 
