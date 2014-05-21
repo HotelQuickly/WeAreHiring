@@ -102,6 +102,8 @@ Byte, Jim and Josef wrote short posts in our [engineering blog](http://engineeri
 
 **Relocation** - do you need to relocate? We might cover some of your expenses including work permit and business visa.
 
+**Home office** - if you [really want it](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/home-office.md)
+
 **Free customer service shift** - do you want to get to know our customers? Night shifts are waiting for you :)
 
 Want to know how much $$$ do you need in Bangkok? Check our overview of [living costs in BKK](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/living-costs-in-BKK.md)
