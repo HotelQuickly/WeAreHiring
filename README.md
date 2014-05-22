@@ -100,7 +100,7 @@ Byte, Jim and Josef wrote short posts in our [engineering blog](http://engineeri
 
 **Hotel vouchers** - arrived to Bangkok and have nowhere to sleep? We'll provide you vouchers for a few days.
 
-**Relocation** - do you need to relocate? We might cover some of your expenses including work permit and business visa.
+**Relocation** - do you need to relocate? We might cover some of your expenses including long-term visa.
 
 **Offsite on a beach** - we organize [offsites on a beach nearby](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/offsites.md).
 
