@@ -56,3 +56,4 @@ We want you to try new things, implement best practices, shortcuts and crazy wor
 
 Pizza on Friday for everyone. All you can eat.
 
+![Pizza time](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/pizza.jpg)
