@@ -31,7 +31,7 @@ See more photos [in our gallery](https://plus.google.com/photos/1003920056269038
 * you can apply if
    * you are REALLY REALLY good in the areas mentioned above
    * you want to have some fun at work. No boring stuff!
-   * you are able to join us asap in the Bangkok office and on [Soi Cowboy](https://www.google.com/search?q=soi+cowboy&tbm=isch&tbo=u&sa=X)
+   * you are able to join us asap in the Bangkok office
    * you want to help us build a superb product
 * we'd love to see who you are and what have you been working on
 * attach brief motivation letter and your CV
