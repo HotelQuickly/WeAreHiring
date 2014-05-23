@@ -2,7 +2,7 @@
 
 ### About us
 
-[HotelQuickly](http://www.hotelquickly.com) is the #1 mobile app for same-day hotel booking in Asia-Pacific with great last-minute discounts. Our company was set up by experienced [international team](http://www.hotelquickly.com/about-us) comprising of serial entrepreneurs and investors. We launched across Asia in March 2013 with teams in Hong Kong, Thailand, Singapore, Taiwan, Indonesia and Malaysia.
+[HotelQuickly](http://www.hotelquickly.com) is the #1 mobile app for same-day hotel booking in Asia-Pacific with great last-minute discounts. Our company was set up by experienced [international team](http://www.hotelquickly.com/about-us) comprising of serial entrepreneurs and investors. We launched across Asia in March 2013 with teams in Hong Kong, Thailand, Singapore, Taiwan, Indonesia and Malaysia. Now we're live in 12 countries across Asia-Pacific.
 
 Recently we were featured on TechCrunch, CBS, NBC, e27, TechInAsia, TheNextWeb, Yahoo, Tnooz and [zillions of others](http://www.hotelquickly.com/press).
 
