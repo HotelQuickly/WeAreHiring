@@ -150,6 +150,12 @@ We want you to grow...*quickly*! And [here's the plan](https://github.com/HotelQ
 
 We really think it's a great opportunity for anyone to join HotelQuickly and compiled [10 reasons why you should join us](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/10-reasons-why-you-should-join-us.md).
 
+## Our stack and technology
+
+| PHP | MySQL | Node.js | NoSQL (Redis & MongoDB) |
+|:--:|:--:|:--:|:--:|
+| Objective-C | Java | Amazon AWS | Puppet |
+
 ## Open-source
 
 We also open-source some of our internal projects, for example:
