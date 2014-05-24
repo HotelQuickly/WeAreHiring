@@ -153,8 +153,8 @@ We really think it's a great opportunity for anyone to join HotelQuickly and com
 ## Our stack and technology
 
 | PHP | MySQL | Node.js | NoSQL (Redis & MongoDB) |
-| Objective-C | Java | Amazon AWS | Puppet |
 |:--:|:--:|:--:|:--:|
+| Objective-C | Java | Amazon AWS | Puppet |
 
 ## Open-source
 
