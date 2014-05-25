@@ -4,9 +4,8 @@
 
 [HotelQuickly](http://www.hotelquickly.com) is the #1 mobile app for same-day hotel booking in Asia-Pacific with great last-minute discounts. Our company was set up by experienced [international team](http://www.hotelquickly.com/about-us) comprising of serial entrepreneurs and investors. We launched across Asia in March 2013 with teams in Hong Kong, Thailand, Singapore, Taiwan, Indonesia and Malaysia. Now we're live in 12 countries across Asia-Pacific.
 
-<div style="float: right;">
+
  ![HotelQuickly Logo](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-logo.png)
-</div>
 
 In [engineering](http://engineering.hotelquickly.com), we have these positions open:
 
