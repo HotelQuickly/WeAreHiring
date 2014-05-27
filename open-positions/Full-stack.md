@@ -44,20 +44,27 @@ We expect you to take ownership of some of our internal projects (we have dozens
 
 On a more technical note, you need to know how to handle the entire software development life cycle, end to end, including working with
 
-* some PHP framework (ideally [Nette framework](http://nette.org))
-* some Node.js framework (ideally [Hapi](https://github.com/spumko/hapi))
+* PHP framework (ideally [Nette framework](http://nette.org))
+* Node.js framework (ideally [Hapi](https://github.com/spumko/hapi))
 * SQL (some of our MySQL queries have 200+ rows)
 * large database (we have 200+ tables in the main project)
 * NoSQL database (we use both MongoDB and Redis for some internal Backend projects)
-* XML (some of the services we are connected to use XML, unfortunately)
+* XML (unfortunately, some of the services we are connected to use XML)
 * JSON (used by most of the services we are connected to)
 * cache (we use Memcache and Redis)
 * Javascript (we also use JQuery)
 * CSS frameworks (we use [Twitter Bootstrap](http://getbootstrap.com/))
 * Amazon AWS (we use EC2, RDS, S3, CloudFront, CloudFormation, ElastiCache, ...)
-* Linux
-* Chef or Puppet
 * version control repositories (preferably ```git```)
+
+So you need to be familiar with the following areas:
+
+* **Languages:** Javascript (Node.js), PHP
+* **Frameworks:** Angular, Express, Zend, Nette
+* **Testing:** Testing frameworks for the languages listed above
+* **DevOps:** Vagrant, Puppet, Chef, AWS, Jenkins, Travis. This extends into a familiarity with Linux OSes (Ubuntu is fine).
+* **VCS:** We stick to Git, but it can't hurt to be familiar with more
+* **Database:** MySQL, PostgreSQL, MongoDB, Redis, preferably comfortable w/ SQL
 
 ### Location
 
