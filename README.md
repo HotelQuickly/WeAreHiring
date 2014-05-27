@@ -8,12 +8,15 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 <img align="right" src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-logo.png" height="50" />
 
-* Mobile app developers
+* Mobile apps
   * [Android](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Android.md) engineer
   * [iOS](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/iOS.md) engineer
-* Backend developers
+* Backend
+  * [Full stack](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Full-stack.md) engineer
   * [Node.js](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Nodejs.md) engineer
   * [PHP](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/PHP.md) engineer
+* Business intelligence
+  * [BI developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/BI-developer.md)
 * [Quality assurance](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/QualityAssurance.md) manager
 * [Server admin](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Server-admin.md) / release engineer
 * [Internship](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Internship.md)
