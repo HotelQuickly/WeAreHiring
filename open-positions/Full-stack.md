@@ -64,7 +64,7 @@ So you need to be familiar with the following areas:
 * **Testing:** Testing frameworks for the languages listed above
 * **DevOps:** Vagrant, Puppet, Chef, AWS, Jenkins, Travis. This extends into a familiarity with Linux OSes (Ubuntu is fine).
 * **VCS:** We stick to Git, but it can't hurt to be familiar with more
-* **Database:** MySQL, PostgreSQL, MongoDB, Redis, preferably comfortable w/ SQL
+* **Database:** MySQL and (MongoDB or Redis)
 
 ### Location
 
