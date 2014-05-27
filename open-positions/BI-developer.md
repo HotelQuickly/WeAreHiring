@@ -38,6 +38,7 @@ We expect you to know how to handle the entire BI development life cycle, start 
 * implementing Hadoop cluster working with Hive
 * preparing data export layer for the BI analyst
 * working with MySQL or Oracle procedures
+* optimising SQL queries
 
 ### Location
 
