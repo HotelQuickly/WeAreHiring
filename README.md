@@ -27,6 +27,10 @@ See more photos [in our gallery](https://plus.google.com/photos/1003920056269038
 
 ## Hiring process
 
+<a href="https://docs.google.com/forms/d/1gGZYgjzAU0rUOCVOqQ_X7dd3x-u8DI8JBmX6QwuZD0k/viewform">
+ <img align="right" src="http://admissions.uoregon.edu/sites/all/themes/admissions/images/applynow.gif" height="50" />
+</a>
+
 **You** - apply for one of the position above by [filling in this application form](https://docs.google.com/forms/d/1gGZYgjzAU0rUOCVOqQ_X7dd3x-u8DI8JBmX6QwuZD0k/viewform)
 
 * the  [application form](https://docs.google.com/forms/d/1gGZYgjzAU0rUOCVOqQ_X7dd3x-u8DI8JBmX6QwuZD0k/viewform) is divided into 3 steps:
