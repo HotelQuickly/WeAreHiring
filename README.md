@@ -1,4 +1,4 @@
-# Open positions @ HotelQuickly engineering
+# Jobs @ HotelQuickly engineering
 
 **Don't dream about Silicon Valley anymore. Join our exciting startup in Bangkok!**
 
