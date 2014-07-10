@@ -52,7 +52,7 @@ Mobile apps & Last-minute hotel booking - is there something more attractive?
 
 We want you to try new things, implement best practices, shortcuts and crazy workarounds. Proper hacking!
 
-## We have Friday pizzas
+## We have Friday pizzas 
 
 Pizza on Friday for everyone. All you can eat.
 

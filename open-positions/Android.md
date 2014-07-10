@@ -6,7 +6,7 @@
 
 Recently we were featured on TechCrunch, CBS, NBC, e27, TechInAsia, TheNextWeb, Yahoo, Tnooz and [zillions of others](http://www.hotelquickly.com/press).
 
-Oh, and we raised $1.1m USD from various investors in Asia, Europe and the U.S. So let's help us make this company HUGE!
+Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/hotelquickly-raises-4-5-million-to-double-down-on-last-minute-hotel-booking-in-asia-pacific/). That makes it $5.6M in total. So let's help us make this company HUGE!
 
 **We are looking for an Android developer who wants to help us to create an outstanding mobile application.**
 
