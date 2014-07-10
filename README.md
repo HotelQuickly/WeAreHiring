@@ -165,7 +165,7 @@ We really think it's a great opportunity for anyone to join HotelQuickly and com
 |:--:|:--:|:--:|:--:|
 | Objective-C | Java | Amazon AWS | Puppet |
 
-## Open-source
+## Open source
 
 We also open-source some of our internal projects, for example:
 
