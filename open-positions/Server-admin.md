@@ -29,7 +29,11 @@ Honestly, we don't really care about your level of formal education, math skill,
 
 ### The job and the challenges
 
-
+* You'll help us manage PuppetLabs for deployment management
+* Schedule and apply OS patches and upgrades, configure and add new services as necessary
+* Develop, review, and execute scripts to backup and recover test datasets
+* Work with infrastructure team on environment design, configuration and deployment scheduling
+* Recommend process enhancements to improve the accuracy and quality of measurements and targets
 
 ### Location
 
@@ -45,7 +49,7 @@ We communicate over HipChat. Sometimes even when we sit next to each other ;-) t
 
 ### Compensation
 
-We're still small but we recognise that we need to pay well to get the talent we need. To really (I mean *REALLY*) good candidates we can offer equity.
+We're still small but we recognise that we need to pay well to get the talent we need. To really (I mean *REALLY*) good long-term candidates we can offer equity.
 
 But we offer much more to make you happy - check the [compensation packages](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#compensation--perks).
 
