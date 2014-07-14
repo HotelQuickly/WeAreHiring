@@ -34,6 +34,7 @@ Honestly, we don't really care about your level of formal education, math skill,
 * Develop, review, and execute scripts to backup and recover test datasets
 * Work with infrastructure team on environment design, configuration and deployment scheduling
 * Recommend process enhancements to improve the accuracy and quality of measurements and targets
+* Work with Development to design and implement code branching strategy for easier deployment
 
 ### Location
 
