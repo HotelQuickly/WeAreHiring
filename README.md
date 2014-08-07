@@ -2,9 +2,7 @@
 
 **Don't dream about Silicon Valley anymore. Join our exciting startup in Bangkok!**
 
-[HotelQuickly](http://www.hotelquickly.com) is the #1 mobile app for same-day hotel booking in Asia-Pacific with great last-minute discounts. Our company was set up by experienced [international team](http://www.hotelquickly.com/about-us) comprising of serial entrepreneurs and investors. We launched across Asia in March 2013 with teams in Hong Kong, Thailand, Singapore, Taiwan, Indonesia and Malaysia. Now we're live in 12 countries across Asia-Pacific.
-
-Recently we were featured on TechCrunch, CBS, NBC, e27, TechInAsia, TheNextWeb, Yahoo, Tnooz and [zillions of others](http://www.hotelquickly.com/press).
+[HotelQuickly](http://www.hotelquickly.com) is the #1 mobile app for same-day hotel booking in Asia-Pacific with great last-minute discounts. Our company was set up by experienced [international team](http://www.hotelquickly.com/about-us) comprising of serial entrepreneurs and investors. We launched across Asia in March 2013 with teams in Hong Kong, Thailand, Singapore, Taiwan, Indonesia and Malaysia. Now we're live in 12 countries across Asia-Pacific. Recently we were featured on TechCrunch, CBS, NBC, e27, TechInAsia, TheNextWeb, Yahoo, Tnooz and [zillions of others](http://www.hotelquickly.com/press).
 
 Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/hotelquickly-raises-4-5-million-to-double-down-on-last-minute-hotel-booking-in-asia-pacific/). That makes it $5.6M in total. So let's help us make this company HUGE!
 
