@@ -1,4 +1,4 @@
-# Business intelligence developer
+# Data scientist
 
 ### About us
 
