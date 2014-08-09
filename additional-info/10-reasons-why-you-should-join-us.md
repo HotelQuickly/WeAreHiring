@@ -44,6 +44,14 @@ Lot's of fun in the office and also outside, i.e. we went for a weekend trip to 
 
 ![In a micro-bus to Pattaya](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/in-a-bus-to-pattaya.jpg)
 
+## We organize beach hackatons
+
+IT offsite in Hua Hin = proper hackaton.
+
+![Working on a beach](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/it-offsite-beach-1.jpg)
+
+More photos in [Additional info > Offsites](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/offsites.md)
+
 ## We're in pretty hot industry
 
 Mobile apps & Last-minute hotel booking - is there something more attractive?
