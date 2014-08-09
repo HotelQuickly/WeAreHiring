@@ -16,6 +16,8 @@ We're connected to 25+ pretty sexy 3rd party services through APIs.
 
 From Amazon AWS we integrated a bunch of services such as EC2 instances, RDS MySQL, ElastiCache, Load balancers, CloudFront, S3, Route 53, auto-scalling and CloudFormation.
 
+We also use agile to help us run the product development - JIRA & Confluence, Scrum's daily stand-ups...
+
 ## 3. We're in Thailand. Bangkok *rulez!*
 
 Bangkok was #1 in most-visited city in the world in 2013 according to [Forbes](http://www.forbes.com/pictures/efik45iifi/most-visited-cities-in-the-world-2013-21/) and [BusinessInsider](http://www.businessinsider.com/most-popular-tourist-destinations-2013-2013-6#1-bangkok-the-number-one-tourist-destination-this-year-1598-million-people-will-visit-bangkok-spending-upwards-of-143-billion-20).
