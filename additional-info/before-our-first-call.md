@@ -23,3 +23,7 @@ It's a good start, but it's not enough. Before we schedule a Skype call with you
 ## Why do I need to do it?
 
 Because we have particular questions and a simple CV usually doesn't answer them. That's why we need you to fill the application form.
+
+---
+
+Prepared with ♥ by [Michal](mailto:michal.juhas@hotelquickly.com)
