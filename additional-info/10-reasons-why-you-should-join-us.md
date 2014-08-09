@@ -42,7 +42,7 @@ See more photos from the party [in the gallery](https://plus.google.com/photos/1
 
 ## 6. It's a lot of fun with us
 
-Lot's of fun in the office and also outside, i.e. we went for a weekend trip to Pattaya:
+Lot's of fun in the office and also outside, i.e. we booked a mini-bus and went for a weekend trip to Pattaya:
 
 ![In a micro-bus to Pattaya](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/in-a-bus-to-pattaya.jpg)
 
@@ -69,5 +69,5 @@ Pizza on Friday for everyone. All you can eat. Free for you.
 ## And a few additional reasons
 
 * We're the #1 hottest startup in Thailand according to e27 ([full article](http://e27.co/5-startups-in-thailand-you-need-to-watch-out-for-in-2014-20140718/)).
-* 
+* We raised together $1.1m and $4.5m USD in funding ([full article](techcrunch.com/2014/07/09/hotelquickly-raises-4-5-million-to-double-down-on-last-minute-hotel-booking-in-asia-pacific/)).
 
