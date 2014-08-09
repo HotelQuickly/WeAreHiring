@@ -60,6 +60,8 @@ Mobile apps & Last-minute hotel booking - is there something more attractive?
 
 We want you to try new things, implement best practices, shortcuts and crazy workarounds. Proper hacking!
 
+You can get a license to any tool you want to use, just let us know and we'll buy it.
+
 ## 10. We have Friday pizzas 
 
 Pizza on Friday for everyone. All you can eat. Free for you.
