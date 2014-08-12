@@ -154,6 +154,10 @@ Your first month:
 * Most likely you'll get an invitation to a super-healthy BIO dinner.
 * And most importantly, you'll learn lots of new stuff.
 
+And you'll join us in the office:
+
+![HotelQuickly Team Photo in the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-office-with-logo.jpg)
+
 ## Your personal growth
 
 We want you to grow...*quickly*! And [here's the plan](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/personal-growth.md).
