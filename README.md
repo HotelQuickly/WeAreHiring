@@ -177,6 +177,12 @@ We also open-source some of our internal projects, for example:
 
 Feel free to check our company's [GitHub account](https://github.com/HotelQuickly/).
 
+## Our team
+
+Team photo after a BBQ party:
+
+![HotelQuickly Team](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg)
+
 ## Questions?
 
 Reach out: it-jobs@hotelquickly.com
