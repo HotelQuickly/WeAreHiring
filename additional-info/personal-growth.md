@@ -30,6 +30,9 @@ We order books from Amazon. The last arrivals include:
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://goo.gl/6h74Cu)
 * [Scalable Internet Architectures](http://goo.gl/ObCN01)
 
+August arrivals:
+
+![August arrivals](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/book-library-August-arrivals.jpg)
 
 ## Online courses
 
