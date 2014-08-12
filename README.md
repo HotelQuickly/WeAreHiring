@@ -28,6 +28,12 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 See more photos [in our gallery](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649) and check [10 reasons why you should join us](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/10-reasons-why-you-should-join-us.md).
 
+## Our team
+
+Our Bangkok team (on a photo below) is quickly expanding. Others work "on the ground" in more than 10 countries that we are active in such as Hong Kong, Singapore, Indonesia, Malaysis...
+
+![HotelQuickly Team](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg)
+
 ## Hiring process
 
 <a href="https://docs.google.com/forms/d/1gGZYgjzAU0rUOCVOqQ_X7dd3x-u8DI8JBmX6QwuZD0k/viewform">
@@ -180,12 +186,6 @@ We also open-source some of our internal projects, for example:
 * [DbDump](https://github.com/HotelQuickly/DbDump) – Python script to easily dump Live database to development or test environment
 
 Feel free to check our company's [GitHub account](https://github.com/HotelQuickly/).
-
-## Our team
-
-Team photo after a BBQ party:
-
-![HotelQuickly Team](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg)
 
 ## Questions?
 
