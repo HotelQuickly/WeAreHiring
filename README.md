@@ -9,8 +9,6 @@ Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/h
 
 In [engineering](http://engineering.hotelquickly.com), we have these positions open:
 
-<img align="right" src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-logo.png" height="50" />
-
 * Mobile apps
   * [Android](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Android.md) engineer
   * [iOS](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/iOS.md) engineer
