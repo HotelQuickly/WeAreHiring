@@ -9,16 +9,12 @@ Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/h
 
 In [engineering](http://engineering.hotelquickly.com), we have these positions open:
 
-* Mobile apps
-  * [Android](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Android.md) engineer
-  * [iOS](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/iOS.md) engineer
 * Backend
   * [Full stack](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Full-stack.md) engineer
   * [Node.js](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Nodejs.md) engineer
   * [PHP](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/PHP.md) engineer
 * Business intelligence
   * [BI developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/BI-developer.md)
-* [Quality assurance](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/QualityAssurance.md) manager
 * [Server admin](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Server-admin.md) / release engineer
 * [Internship](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Internship.md)
 
