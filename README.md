@@ -32,6 +32,12 @@ Our Bangkok team (on a photo below) is quickly expanding. Others work "on the gr
 
 ![HotelQuickly Team](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg)
 
+## Our amazing bright new office in Bangkok
+
+Massage room, movie corner and gaming room included!
+
+[![Office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office/office.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
+
 ## Hiring process
 
 <a href="https://docs.google.com/forms/d/1gGZYgjzAU0rUOCVOqQ_X7dd3x-u8DI8JBmX6QwuZD0k/viewform">
