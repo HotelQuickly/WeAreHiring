@@ -93,6 +93,6 @@ There's lots of additional resources in
 
 ### How to apply?
 
-Do you want to enjoy some fun while working with us? Then check next steps in our [hiring process](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#hiring-process). RTFM and apply.
+Do you want to enjoy some fun while working with us? Then check next steps in our [hiring process](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#hiring-process). RTFM and apply by clicking on the big fat button.
 
 *No brogrammers / ninjas / rockstars, please.*
