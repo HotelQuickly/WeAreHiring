@@ -89,14 +89,9 @@ Massage room, movie corner and gaming room included!
 * this call will be full of pair programming - we're having some great assignments waiting for you
 * get ready for that, it will be fun :)
 
-**You** - if you are in Bangkok, we should meet - let's schedule a quick coffee together
+**You** - if you are in Bangkok, you should meet with our team - you can join our Friday pizza lunch
 
 * and if you are abroad... well, that will be a challenge
-
-**You** - start working on an audition project
-
-* if we really really like you, we'll ask you to help us to solve some real issues we're currently solving
-* we'll share you one of our 80 repositories and you'll contribute - we'll find a budget to compensate your time
 
 **Us** - in the meantime, we'll prepare you an offer
 
@@ -127,8 +122,6 @@ Byte, Jim and Josef wrote short posts in our [engineering blog](http://engineeri
 **Offsite on a beach** - we organize [offsites on a beach nearby](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/offsites.md).
 
 **Home office** - if you [really want it](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/home-office.md).
-
-**Free customer service shift** - do you want to get to know our customers? Night shifts are waiting for you :)
 
 Want to know how much $$$ do you need in Bangkok? Check our overview of [living costs in BKK](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/living-costs-in-BKK.md)
 
