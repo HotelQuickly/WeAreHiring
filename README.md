@@ -9,14 +9,12 @@ Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/h
 
 In [engineering](http://engineering.hotelquickly.com), we have these positions open:
 
-* Backend
-  * [Full stack](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Full-stack.md) engineer
-  * [Node.js](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Nodejs.md) engineer
-  * [PHP](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/PHP.md) engineer
-* Business intelligence
-  * [BI developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/BI-developer.md)
+* [Business intelligence developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/BI-developer.md)
+* [Full stack developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Full-stack.md) engineer
+* [Node.js developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Nodejs.md) engineer
+* [PHP developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/PHP.md) engineer
 * [Server admin](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Server-admin.md) / release engineer
-* [Internship](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Internship.md)
+* and [Internship](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Internship.md)
 
 [![From the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/photos-from-the-office.png)](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
 
