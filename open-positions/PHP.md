@@ -44,15 +44,15 @@ We expect you to take ownership of some of our internal projects (we have dozens
 
 On a more technical note, you need to know how to handle the entire software development life cycle, end to end, including working with
 
-* some PHP framework (ideally [Nette framework](http://nette.org))
-* SQL (some of our MySQL queries have 200+ rows)
+* some PHP framework ([Nette framework](http://nette.org), [Symphony 2](http://symfony.com/), [Laravel](http://laravel.com/))
+* SQL + ORM database model ([Doctrine2](http://www.doctrine-project.org/))
 * large database (we have 200+ tables in the main project)
 * NoSQL database (we use both MongoDB and Redis for some internal Backend projects)
 * XML (some of the services we are connected to use XML, unfortunately)
 * JSON (used by most of the services we are connected to)
 * cache (we use Memcache and Redis)
 * templating system
-* Javascript (we also use JQuery)
+* Javascript (do you know JQuery? Good. Do you work with AngularJS? Great. CasperJS? Hapi? No? You could with us ...)
 * CSS frameworks (we use [Twitter Bootstrap](http://getbootstrap.com/))
 * OOP (pretty obvious, just to make sure you know it)
 * version control repositories (preferably ```git```)
@@ -84,6 +84,6 @@ There's lots of additional resources in
 
 ### How to apply?
 
-Do you want to enjoy some fun while working with us? Then check next steps in our [hiring process](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#hiring-process). RTFM and apply by clicking on the big fat button.
+Do you want to enjoy some fun while working with us? Then check next steps in our [hiring process](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#hiring-process). RTFM and apply.
 
 *No brogrammers / ninjas / rockstars, please.*
