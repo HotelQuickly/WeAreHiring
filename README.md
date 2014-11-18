@@ -22,9 +22,11 @@ Massage room, movie corner and gaming room included! See [more office photos](ht
 
 [![Office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office/office.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
 
+## Our old office
+
 [![From the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/photos-from-the-office.png)](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
 
-See more photos [in our gallery](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649) and check [10 reasons why you should join us](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/10-reasons-why-you-should-join-us.md).
+Wanna see more photos? See [our gallery](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649) and check [10 reasons why you should join us](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/10-reasons-why-you-should-join-us.md).
 
 ## Our team
 
