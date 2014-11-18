@@ -32,6 +32,18 @@ Our Bangkok team (on a photo below) is quickly expanding. Others work "on the gr
 
 ![HotelQuickly Team](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg)
 
+## Our core values
+
+All of us live by the following core values. Let us know if this sounds like a perfect fir for you!
+
+* Execution & pro-activity
+* Passion & determination for excellence
+* Trust, teamWork, openness & communication
+* Growth & learning
+* Fun
+* Disruptive & creative
+* Dynamic & Agile
+
 ## Hiring process
 
 <a href="https://docs.google.com/forms/d/1gGZYgjzAU0rUOCVOqQ_X7dd3x-u8DI8JBmX6QwuZD0k/viewform">
