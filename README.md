@@ -18,7 +18,7 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 
 ## Our amazing bright new office in Bangkok
 
-Massage room, movie corner and gaming room included!
+Massage room, movie corner and gaming room included! See [more office photos](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985).
 
 [![Office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office/office.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
 
