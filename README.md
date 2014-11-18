@@ -16,6 +16,12 @@ In [engineering](http://engineering.hotelquickly.com), we have these positions o
 * [Server admin](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Server-admin.md) / release engineer
 * and [Internship](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Internship.md)
 
+## Our amazing bright new office in Bangkok
+
+Massage room, movie corner and gaming room included!
+
+[![Office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office/office.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
+
 [![From the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/photos-from-the-office.png)](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
 
 See more photos [in our gallery](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649) and check [10 reasons why you should join us](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/10-reasons-why-you-should-join-us.md).
@@ -25,12 +31,6 @@ See more photos [in our gallery](https://plus.google.com/photos/1003920056269038
 Our Bangkok team (on a photo below) is quickly expanding. Others work "on the ground" in more than 10 countries that we are active in such as Hong Kong, Singapore, Indonesia, Malaysis...
 
 ![HotelQuickly Team](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg)
-
-## Our amazing bright new office in Bangkok
-
-Massage room, movie corner and gaming room included!
-
-[![Office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office/office.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
 
 ## Hiring process
 
