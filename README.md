@@ -96,7 +96,7 @@ All of us live by the following core values. Let us know if this sounds like a p
 * this call will be full of pair programming - we're having some great assignments waiting for you
 * get ready for that, it will be fun :)
 
-**You** - if you are in Bangkok, you should meet with our team - you can join our Friday pizza lunch
+**You** - if you are in Bangkok, you should meet with our team - you can join our *Pizza Friday* lunch
 
 * and if you are abroad... well, that will be a challenge
 
@@ -118,7 +118,7 @@ Byte, Jim and Josef wrote short posts in our [engineering blog](http://engineeri
 
 **Package 2-for-1** - if you have a wife who's a developer, we'll hire you both and will pay for one ;-)
 
-**Friday pizza** - we're buying pizza for everyone on Friday. Happy hour!
+**Pizza Friday** - we're buying pizza for everyone on Friday. Happy hour!
 
 **Monthly party** - we're organizing parties every 2 weeks and will chip-in.
 
