@@ -49,7 +49,7 @@ All of us live by the following core values. Let us know if this sounds like a p
 ## Hiring process
 
 <a href="https://docs.google.com/forms/d/1gGZYgjzAU0rUOCVOqQ_X7dd3x-u8DI8JBmX6QwuZD0k/viewform">
- <img align="right" src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/button-apply-now.jpg" height="80" />
+ <img align="right" src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/button-apply-now.jpg" height="60" />
 </a>
 
 **You** - apply for one of the position above by [filling in this application form](https://docs.google.com/forms/d/1gGZYgjzAU0rUOCVOqQ_X7dd3x-u8DI8JBmX6QwuZD0k/viewform)
