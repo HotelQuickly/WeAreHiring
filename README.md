@@ -108,6 +108,10 @@ All of us live by the following core values. Let us know if this sounds like a p
 
 ## How does it work at HotelQuickly?
 
+<a href="http://htqk.ly/itjobsform">
+ <img align="right" src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/button-apply-now.jpg" height="60" />
+</a>
+
 Byte, Jim and Josef wrote short posts in our [engineering blog](http://engineering.hotelquickly.com) about their work with us.
 
 * [Byte: How does it work at HotelQuickly?](http://engineering.hotelquickly.com/2014/05/15/byte-working-at-hotelquickly/)
@@ -143,6 +147,10 @@ Want to know how much $$$ do you need in Bangkok? Check our overview of [living 
 ---
 
 ## Onboarding
+
+<a href="http://htqk.ly/itjobsform">
+ <img align="right" src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/button-apply-now.jpg" height="60" />
+</a>
 
 Your first day:
 
