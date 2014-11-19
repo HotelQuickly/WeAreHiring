@@ -196,6 +196,10 @@ We really think it's a great opportunity for anyone to join HotelQuickly and com
 
 ## Open source
 
+<a href="http://htqk.ly/itjobsform">
+ <img align="right" src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/button-apply-now.jpg" height="60" />
+</a>
+
 We also open-source some of our internal projects, for example:
 
 * [DbHistory](https://github.com/HotelQuickly/DbHistory) – MySQL packages that runs in the background and keep history of every single change in all rows
