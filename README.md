@@ -37,13 +37,13 @@ Our Bangkok team (on a photo below) is quickly expanding. Others work "on the gr
 
 All of us live by the following core values. Let us know if this sounds like a perfect fir for you!
 
-* Execution & pro-activity
-* Passion & determination for excellence
-* Trust, teamWork, openness & communication
-* Growth & learning
-* Fun
-* Disruptive & creative
-* Dynamic & Agile
+* **Disruptive & creative** (as a start-up, we just need to be)
+* **Trust, team-work, openness & communication** (we believe we can create the best product only if all of us collaborate)
+* **Fun** (work hard, play hard - we have lot's of fun!)
+* **Execution & pro-activity** (we love to see people being proactive and accepting challenging situations)
+* **Passion & determination for excellence** (it's so exciting to work with people full of passion)
+* **Growth & learning** (with our book library, trainings and conferences we constantly learn new things)
+* **Dynamic & Agile** (not just IT, but the whole company become agile recently)
 
 ## Hiring process
 
