@@ -1,13 +1,12 @@
 # Jobs @ HotelQuickly engineering
 
-**Don't dream about Silicon Valley anymore. Join our exciting startup in Bangkok!**
+### Don't dream about Silicon Valley anymore. Join our exciting startup in Bangkok!
 
 [HotelQuickly](http://www.hotelquickly.com) is the #1 mobile app for same-day hotel booking in Asia-Pacific with great last-minute discounts. Our company was set up by experienced [international team](http://www.hotelquickly.com/about-us) comprising of serial entrepreneurs and investors. We launched across Asia in March 2013 with teams in Hong Kong, Thailand, Singapore, Taiwan, Indonesia and Malaysia. Now we're live in 12 countries across Asia-Pacific. Recently we were featured on TechCrunch, CBS, NBC, e27, TechInAsia, TheNextWeb, Yahoo, Tnooz and [zillions of others](http://www.hotelquickly.com/press).
 
 Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/hotelquickly-raises-4-5-million-to-double-down-on-last-minute-hotel-booking-in-asia-pacific/). That makes it $5.6M in total. So let's help us make this company HUGE!
 
-
-In [engineering](http://engineering.hotelquickly.com), we have these positions open:
+### Open positions
 
 * [Business intelligence developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/BI-developer.md)
 * [Full stack developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Full-stack.md)
@@ -201,6 +200,12 @@ Feel free to check our company's [GitHub account](https://github.com/HotelQuickl
 We organise lots of smaller or bigger parties in the office:
 
 [![Party in the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office-warming.jpg)](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office-warming.jpg)
+
+## Mix of nationalities
+
+In the company we have more than 20 different nationalities which makes the interactions really exciting.
+
+[![Smoking break](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/smoking-break.jpg)](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/smoking-break.jpg)
 
 ## Questions?
 
