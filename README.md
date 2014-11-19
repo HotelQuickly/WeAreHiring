@@ -169,6 +169,10 @@ And you'll join us in the office:
 
 ![HotelQuickly Team Photo in the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-office-with-logo.jpg)
 
+## We are agile
+
+Read more about us [how do we use agile to improve product development](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/we-are-agile.md).
+
 ## Your personal growth
 
 We want you to grow...*quickly*! And [here's the plan](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/personal-growth.md).
