@@ -48,7 +48,7 @@ All of us live by the following core values. Let us know if this sounds like a p
 
 ## Hiring process
 
-<a href="httpshttp://htqk.ly/itjobsform">
+<a href="http://htqk.ly/itjobsform">
  <img align="right" src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/button-apply-now.jpg" height="60" />
 </a>
 
