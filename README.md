@@ -196,6 +196,12 @@ We also open-source some of our internal projects, for example:
 
 Feel free to check our company's [GitHub account](https://github.com/HotelQuickly/).
 
+## Party in the office
+
+We organise lots of smaller or bigger parties in the office:
+
+[![Party in the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office-warming.jpg)](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office-warming.jpg)
+
 ## Questions?
 
 Reach out: it-jobs@hotelquickly.com
