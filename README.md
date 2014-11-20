@@ -215,7 +215,7 @@ We organise lots of smaller or bigger parties in the office:
 
 ## Full team activities
 
-Every now and then we organise crazy activities for the full team.
+Every now and then we organise crazy activities for the full team. See [more photos](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/team-activities.md).
 
 [![Offsite photo](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/offsite-20141119/photo1.jpg)](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/team-activities.md)
 
