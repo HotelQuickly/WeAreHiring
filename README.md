@@ -211,7 +211,7 @@ Feel free to check our company's [GitHub account](https://github.com/HotelQuickl
 
 We organise lots of smaller or bigger parties in the office:
 
-[![Party in the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office-warming.jpg)](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office-warming.jpg)
+![Party in the office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office-warming.jpg)
 
 ## Full team activities
 
@@ -224,7 +224,13 @@ Every now and then we organise crazy activities for the full team. See [more pho
 
 In the company we have more than 20 different nationalities which makes the interactions really exciting.
 
-[![Smoking break](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/smoking-break.jpg)](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/smoking-break.jpg)
+![Smoking break](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/smoking-break.jpg)
+
+## Pillows are everywhere
+
+Our HotelQuickly pillows are ... literally ... everywhere :-)
+
+![G-Team with pillows](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/five-with-pillows.jpg)
 
 ## Questions?
 
