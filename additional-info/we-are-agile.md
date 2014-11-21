@@ -21,3 +21,9 @@ After each sprint we've got a retrospective meeting where we share insights abou
 ## Collaboration
 
 Confluence helps us be more collaborative than ever before.
+
+## Weekly prioritisation
+
+Every Friday @ 3pm BKK time we have a meeting & Hangout call to prioritise our projects such as iOS, Android, Backend etc. Discussions during the calls get easily heated and some of us try to persuade others with unusual facial expressions ;-) 
+
+![Prioritisation call](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/prioritisation-meeting.png)
