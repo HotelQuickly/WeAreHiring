@@ -46,11 +46,7 @@ All of us live by the following core values. Let us know if this sounds like a p
 
 ## Hiring process
 
-<a href="http://htqk.ly/itjobsform">
- <img align="right" src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/button-apply-now.jpg" height="60" />
-</a>
-
-**You** - apply for one of the position above by [filling in this application form](http://htqk.ly/itjobsform)
+**You** - apply for one of the position above by filling an application form.
 
 * the form is divided into 3 steps:
    * your name, email, telephone, URLs to your public profiles etc.
@@ -107,10 +103,6 @@ All of us live by the following core values. Let us know if this sounds like a p
 
 ## How does it work at HotelQuickly?
 
-<a href="http://htqk.ly/itjobsform">
- <img align="right" src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/button-apply-now.jpg" height="60" />
-</a>
-
 Byte, Jim and Josef wrote short posts in our [engineering blog](http://engineering.hotelquickly.com) about their work with us.
 
 * [Byte: How does it work at HotelQuickly?](http://engineering.hotelquickly.com/2014/05/15/byte-working-at-hotelquickly/)
@@ -146,10 +138,6 @@ Want to know how much $$$ do you need in Bangkok? Check our overview of [living 
 ---
 
 ## Onboarding
-
-<a href="http://htqk.ly/itjobsform">
- <img align="right" src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/button-apply-now.jpg" height="60" />
-</a>
 
 Your first day:
 
@@ -195,10 +183,6 @@ We really think it's a great opportunity for anyone to join HotelQuickly and com
 
 ## Open source
 
-<a href="http://htqk.ly/itjobsform">
- <img align="right" src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/button-apply-now.jpg" height="60" />
-</a>
-
 We also open-source some of our internal projects, for example:
 
 * [DbHistory](https://github.com/HotelQuickly/DbHistory) – MySQL packages that runs in the background and keep history of every single change in all rows
@@ -234,10 +218,6 @@ Our HotelQuickly pillows are ... literally ... everywhere :-)
 ## Questions?
 
 Reach out: it-jobs@hotelquickly.com
-
-<a href="http://htqk.ly/itjobsform">
- <img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/button-apply-now.jpg" height="60" />
-</a>
 
 ---
 
