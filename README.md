@@ -48,25 +48,25 @@ All of us live by the following core values. Let us know if this sounds like a p
 
 **You** - apply for one of the position above by filling an application form.
 
-* the form is divided into 3 steps:
-   * your name, email, telephone, URLs to your public profiles etc.
-   * your portfolio - projects you've been working on
-   * your skills relevant to the position you're applying for
 * you can apply if
-   * you are REALLY REALLY good in the areas mentioned above
+   * you are REALLY REALLY good in the area you focus on (PHP, Nodejs, iOS, Android, databases, ...)
    * you want to have some fun at work. No boring stuff!
    * you are able to join us asap in the Bangkok office
    * you want to help us build a superb product
 * we'd love to see who you are and what have you been working on
 * attach brief motivation letter and your CV
-* specify which position are you applying for (can even apply for more!)
 * write more detailed info related to the position you're applying for
 * make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, ...)
 * don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore / PlayStore)
 * attach references, if you have any
 
+**Us** - we'll receive a notification and based on the cover letter and CV we will either thank you *(ups)* or schedule a first Skype call
 
-**Us** - we'll receive a notification and based on the cover letter and CV we will either thank you *(ups)* or schedule a Skype call
+**Us** - we schedule a 5 minute-long call with you to check how good are you in English.
+
+**You** - for the English call, make sure you know what HotelQuickly is about. Talk to your friends for a while in English before the call :)
+
+**Us** - we'll organise a 2nd call with you. It will be longer than the first one (~30 minutes) and with a different person.
 
 **You** - prepare for the Skype call
 
