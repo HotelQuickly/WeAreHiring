@@ -17,7 +17,7 @@ Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/h
 
 ## Our amazing bright new office in Bangkok
 
-Massage room, movie corner and gaming room included! See [more office photos](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985).
+Massage room, movie corner and gaming room included! See [more office photos](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985) or read about [magazines that wrote about it](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/office.md).
 
 [![Office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office/office.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
 
