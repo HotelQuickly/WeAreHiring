@@ -71,10 +71,6 @@ There's lots of additional resources in
 
 ### How to apply?
 
-Do you want to enjoy some fun while working with us? Then check next steps in our [hiring process](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#hiring-process). RTFM and apply.
-
-<a href="http://htqk.ly/itjobsform">
- <img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/button-apply-now.jpg" height="60" />
-</a>
+This position is not open at the moment.
 
 *No brogrammers / ninjas / rockstars, please.*
