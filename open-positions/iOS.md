@@ -83,6 +83,6 @@ There's lots of additional resources in
 
 ### How to apply?
 
-This position is not open at the moment.
+http://hotelquickly.theresumator.com/apply
 
 *No brogrammers / ninjas / rockstars, please.*
