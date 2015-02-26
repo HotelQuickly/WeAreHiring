@@ -2,19 +2,17 @@
 
 ### Don't dream about Silicon Valley anymore. Join our exciting startup in Bangkok!
 
-[HotelQuickly](http://www.hotelquickly.com) is the #1 mobile app for same-day hotel booking in Asia-Pacific with great last-minute discounts. Our company was set up by experienced [international team](http://www.hotelquickly.com/team/) comprising of serial entrepreneurs and investors. We launched across Asia in March 2013 with teams in Hong Kong, Thailand, Singapore, Taiwan, Indonesia and Malaysia. Now we're live in 12 countries across Asia-Pacific. Recently we were featured on TechCrunch, CBS, NBC, e27, TechInAsia, TheNextWeb, Yahoo, Tnooz and [zillions of others](http://www.hotelquickly.com/press).
+[HotelQuickly](http://www.hotelquickly.com) is the #1 mobile app for same-day hotel booking in Asia-Pacific with great last-minute discounts. Our company was set up by experienced [international team](http://www.hotelquickly.com/team/) comprising of serial entrepreneurs and investors. We launched across Asia in March 2013 with teams in Hong Kong, Thailand, Singapore, Taiwan, Indonesia and Malaysia. Now we're live in 15 countries across Asia-Pacific. Recently we were featured on TechCrunch, CBS, NBC, e27, TechInAsia, TheNextWeb, Yahoo, Tnooz and [zillions of others](http://www.hotelquickly.com/press).
 
 Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/hotelquickly-raises-4-5-million-to-double-down-on-last-minute-hotel-booking-in-asia-pacific/). That makes it $5.6M in total. So let's help us make this company HUGE!
 
 ### Open positions
 
 * [IT DevOps (Junior PHP developer)](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/DevOps.md)
-* [Business intelligence dev](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/BI-developer.md)
 * [Full stack developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Full-stack.md)
 * [Node.js developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Nodejs.md)
 * [PHP developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/PHP.md)
 * [Server admin](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Server-admin.md)
-* [Internship](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Internship.md)
 * [Android](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Android.md)
 * [iOS](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/iOS.md)
 
@@ -68,7 +66,7 @@ All of us live by the following core values. Let us know if this sounds like a p
 
 **Us** - we schedule a 5 minute-long call with you to check how good are you in English.
 
-**You** - for the English call, make sure you know what HotelQuickly is about. Talk to your friends for a while in English before the call :)
+**You** - for the English call, make sure you know what HotelQuickly is about. Talk to your friends for a while in English before the call to warm up :)
 
 **Us** - we'll organise a 2nd call with you. It will be longer than the first one (~30 minutes) and with a different person.
 
@@ -119,11 +117,11 @@ Byte, Jim and Josef wrote short posts in our [engineering blog](http://engineeri
 
 **Pizza Friday** - we're buying pizza for everyone on Friday. Happy hour!
 
-**Monthly party** - we're organizing parties every 2 weeks and will chip-in.
+**Monthly party** - we're organizing parties every 2 weeks and will chip-in. Free beer and snacks.
 
 **Hotel vouchers** - arrived to Bangkok and have nowhere to sleep? We'll provide you vouchers for a few days.
 
-**Relocation** - do you need to relocate? We might cover some of your expenses including long-term visa.
+**Relocation** - do you need to relocate? We might cover some of your expenses such as flight ticket and long-term visa.
 
 **Offsite on a beach** - we organize [offsites on a beach nearby](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/offsites.md).
 
@@ -145,21 +143,19 @@ Want to know how much $$$ do you need in Bangkok? Check our overview of [living 
 
 Your first day:
 
-* We'll introduce you to everyone and will invite you for a *new-joiners' lunch*.
-* You'll get access to all our systems - especially the Backend is full of surprises.
+* We'll introduce you to everyone.
+* You'll get access to our systems - especially the Backend is full of surprises.
 * You'll check our internal wiki to get first insights.
 
 Your first week:
 
-* You'll have your first customer service shift to get the insights from users and customers.
 * We'll have a few sessions explaining the product and business into details.
-* You'll have a training to get you on the ground running with some of our tools
+* You'll have a training to get you on the ground running with some of our tools.
 * You'll check all competitors and their apps to make sure you know why are we different / better.
 
 Your first month:
 
 * You'll start working on IT support (which is a lot of fun indeed).
-* One of our [CxO's](http://www.hotelquickly.com/team/) will show you the places Bangkok is famous for.
 * Most likely you'll get an invitation to a super-healthy BIO dinner.
 * And most importantly, you'll learn lots of new stuff.
 
@@ -181,9 +177,9 @@ We really think it's a great opportunity for anyone to join HotelQuickly and com
 
 ## Our stack and technology
 
-| PHP | MySQL | Node.js | NoSQL (Redis & MongoDB) |
+| PHP | MySQL | Node.js | NoSQL (Redis & MongoDB & DynamoDb) |
 |:--:|:--:|:--:|:--:|
-| Objective-C | Java | Amazon AWS | Puppet |
+| Objective-C | Java | Amazon AWS |  |
 
 ## Open source
 
@@ -221,7 +217,7 @@ Our HotelQuickly pillows are ... literally ... everywhere :-)
 
 ## Questions?
 
-Reach out: it-jobs@hotelquickly.com
+Reach out: michal.juhas@hotelquickly.com
 
 ---
 
