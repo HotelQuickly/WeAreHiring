@@ -16,6 +16,14 @@ Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/h
 * [Android](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Android.md)
 * [iOS](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/iOS.md)
 
+## Our team
+
+[![HQ Team](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/team-photos-thumbnails.png)](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
+
+Our Bangkok team (on a photo below) is quickly expanding. Others work "on the ground" in more than 10 countries that we are active in such as Hong Kong, Singapore, Indonesia, Malaysia, Vietnam, Taiwan, Australia, ...
+
+[![HotelQuickly Team](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg)](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
+
 ## Our amazing bright new office in Bangkok
 
 Massage room, movie corner and gaming room included! See [more office photos](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985) or read about [magazines that wrote about it](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/office.md).
@@ -23,14 +31,6 @@ Massage room, movie corner and gaming room included! See [more office photos](ht
 [![Office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office/office.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
 
 Wanna see more photos? See [our gallery](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649) and check [10 reasons why you should join us](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/10-reasons-why-you-should-join-us.md).
-
-[![HQ Team](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/team-photos-thumbnails.png)](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
-
-## Our team
-
-Our Bangkok team (on a photo below) is quickly expanding. Others work "on the ground" in more than 10 countries that we are active in such as Hong Kong, Singapore, Indonesia, Malaysis...
-
-![HotelQuickly Team](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg)
 
 ## Our core values
 
