@@ -47,13 +47,16 @@ Two months after you start we'll assign you another project to work on part-time
 
 Please note that we don't take interns for less than 4 months. If you are from abroad, we will arrange visa for you.
 
-### Location
+### Working environment
 
-You'll be working in our office in Bangkok, directly with all the other engineers and the tech co-founder. We have a beautiful office here full of snacks and Coke.
-
-See some photos [in our gallery](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649).
+You'll be working in our office in Bangkok, directly with all the other engineers and the tech co-founder. We have a beautiful office here full of snacks and Coke. 27" screens and ergonomic chairs.
 
 Our working hours are typically 10am-8pm, but it's pretty flexible. Some of us start early morning (8am), some of us start later and work until midnight.
+
+### Photos
+
+* [Team photos](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
+* [Office photos](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
 
 ### Communication
 
@@ -61,14 +64,17 @@ We communicate over HipChat. Sometimes even when we sit next to each other ;-) t
 
 ### Compensation
 
-You'll learn a lot and we don't expect you to pay for that. We'll not pay you either unless you are an **intern superstar.**
+We're still small but we recognise that we need to pay well to get the talent we need. To really (I mean *REALLY*) good candidates we can offer equity.
+
+But we offer much more to make you happy - check the [compensation packages](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#compensation--perks).
 
 ### More info
 
 There's lots of additional resources in
 
-* [README.md](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md)
-* [/additional-info/](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info)
+* [GitHub / WeAreHiring / README.md](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md)
+* [GitHub / WeAreHiring / additional-info/](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info)
+* [GitHub / WeAreHiring / open-positions/](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions)
 
 ### How to apply?
 
