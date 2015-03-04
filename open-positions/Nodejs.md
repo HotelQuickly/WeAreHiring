@@ -82,9 +82,9 @@ But we offer much more to make you happy - check the [compensation packages](htt
 
 There's lots of additional resources in
 
-* [GitHub/WeAreHiring/README.md](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md)
-* [GitHub/WeAreHiring/additional-info/](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info)
-* [GitHub/WeAreHiring/open-positions/](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions)
+* [GitHub / WeAreHiring / README.md](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md)
+* [GitHub / WeAreHiring / additional-info/](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info)
+* [GitHub / WeAreHiring / open-positions/](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions)
 
 ### How to apply?
 
