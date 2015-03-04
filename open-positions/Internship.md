@@ -8,12 +8,6 @@ Recently we were featured on TechCrunch, CBS, NBC, e27, TechInAsia, TheNextWeb, 
 
 Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/hotelquickly-raises-4-5-million-to-double-down-on-last-minute-hotel-booking-in-asia-pacific/). That makes it $5.6M in total. So let's help us make this company HUGE!
 
-### Why?
-
-We believe people can and should experience last-minute traveling because spontaneous moments enrich life.
-
-Therefore, we are serving travellers with a mobile product that makes last-minute hotel booking fast and rewarding.
-
 ---
 
 [![Venture Beat](http://www.hotelquickly.com/img/logos/vb.png)](http://venturebeat.com/2013/06/25/same-day-booking-app-hotelquickly-claims-dominance-in-asia-before-rival-hoteltonight/)
@@ -32,6 +26,14 @@ You're studying at a tech-university, but also freelancing or working on open-so
 Hopefully you'll have some published code (in any language, maybe on GitHub?) that we can take a look at.
 
 Honestly, we don't take interns beginners.
+
+### Why?
+
+We believe people can and should experience last-minute traveling because all those spontaneous moments enrich our lives.
+
+Therefore, we are serving travellers with a world-class mobile product that makes last-minute hotel booking fast and rewarding.
+
+Do you want to help us build this product?
 
 ### Your engagement
 
