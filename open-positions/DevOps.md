@@ -45,13 +45,16 @@ We expect you to take ownership of the IT DevOps. That means you should be
 * able to dig into PHP or Node.js code, MySQL or NoSQL database to check what's wrong
 * able to work in a team with other Backend developers
 
-### Location
+### Working environment
 
-You'll be working in our office in Bangkok, directly with all the other engineers and the tech co-founder. We have a beautiful office here full of snacks and Coke.
-
-See some photos [in our gallery](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649).
+You'll be working in our office in Bangkok, directly with all the other engineers and the tech co-founder. We have a beautiful office here full of snacks and Coke. 27" screens and ergonomic chairs.
 
 Our working hours are typically 10am-8pm, but it's pretty flexible. Some of us start early morning (8am), some of us start later and work until midnight.
+
+### Photos
+
+* [Team photos](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
+* [Office photos](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
 
 ### Communication
 
@@ -67,8 +70,9 @@ But we offer much more to make you happy - check the [compensation packages](htt
 
 There's lots of additional resources in
 
-* [README.md](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md)
-* [/additional-info/](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info)
+* [GitHub / WeAreHiring / README.md](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md)
+* [GitHub / WeAreHiring / additional-info/](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info)
+* [GitHub / WeAreHiring / open-positions/](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions)
 
 ### How to apply?
 
