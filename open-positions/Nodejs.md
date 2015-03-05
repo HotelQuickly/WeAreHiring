@@ -98,5 +98,3 @@ Do you want to enjoy some fun while working with us? Then click on the button be
 <a href="http://hotelquickly.theresumator.com/apply/qNf6ko/Nodejs-Developer.html?source=wearehiring">
  <img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/button-apply-now.jpg" height="60" />
 </a>
-
-*No brogrammers / ninjas / rockstars, please.*
