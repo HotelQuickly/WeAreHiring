@@ -93,5 +93,3 @@ There's lots of additional resources in
 ### How to apply?
 
 http://hotelquickly.theresumator.com/apply
-
-*No brogrammers / ninjas / rockstars, please.*
