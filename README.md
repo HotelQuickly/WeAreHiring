@@ -22,7 +22,7 @@ Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/h
 
 Our Bangkok team (on a photo below) is quickly expanding. Others work "on the ground" in more than 10 countries that we are active in such as Hong Kong, Singapore, Indonesia, Malaysia, Vietnam, Taiwan, Australia, ...
 
-[![HotelQuickly Team](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg)](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
+[![VIDEO: How does it work at HotelQuickly](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/we-are-hiring-thumbnail-video.jpg)](https://www.youtube.com/watch?v=mx4DpP4OM9I)
 
 ## Our amazing bright new office in Bangkok
 
@@ -212,6 +212,8 @@ In the company we have more than 20 different nationalities which makes the inte
 Our HotelQuickly pillows are ... literally ... everywhere :-)
 
 ![G-Team with pillows](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/five-with-pillows.jpg)
+
+[![HotelQuickly Team](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg)](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
 
 ## Questions?
 
