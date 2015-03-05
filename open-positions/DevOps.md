@@ -51,13 +51,13 @@ You'll be working in our office in Bangkok, directly with all the other engineer
 
 Our working hours are typically 10am-8pm, but it's pretty flexible. Some of us start early morning (8am), some of us start later and work until midnight.
 
-### Check this out
+We've got lots of fun at the office, check out what people say in the video below:
 
+* Video
+ * [How does it work at HotelQuickly?](https://www.youtube.com/watch?v=mx4DpP4OM9I)
 * Photos
  * [Team photos](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
  * [Office photos](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
-* Video
- * [How does it work at HotelQuickly?](https://www.youtube.com/watch?v=mx4DpP4OM9I)
 
 ### Communication
 
