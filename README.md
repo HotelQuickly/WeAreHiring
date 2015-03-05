@@ -22,6 +22,8 @@ Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/h
 
 Our Bangkok team (on a photo below) is quickly expanding. Others work "on the ground" in more than 10 countries that we are active in such as Hong Kong, Singapore, Indonesia, Malaysia, Vietnam, Taiwan, Australia, ...
 
+We've got lots of fun at the office, check out what people say in the video below:
+
 [![VIDEO: How does it work at HotelQuickly](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/we-are-hiring-thumbnail-video.jpg)](https://www.youtube.com/watch?v=mx4DpP4OM9I)
 
 ## Our amazing bright new office in Bangkok
