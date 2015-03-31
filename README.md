@@ -8,7 +8,7 @@ Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/h
 
 ### Open positions
 
-* [Project coordinator/ business analyst](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Project-coordinator.md)
+* [Project coordinator / business analyst](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Project-coordinator.md)
 * [IT DevOps (Junior PHP developer)](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/DevOps.md)
 * [Full stack developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Full-stack.md)
 * [Node.js developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Nodejs.md)
