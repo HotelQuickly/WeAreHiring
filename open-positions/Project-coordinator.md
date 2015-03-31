@@ -35,6 +35,13 @@ These projects would allow you to take ownership of the project from start to fi
 
 You will communicate with our inhouse business, marketing and social media teams to deliver the project on time and with high quality output.
 
+We expect you to be 
+
+* creative to think out of the box and prepare suggestions how to implement the project
+* analytical & data driven (focus on data analysis and experiment testing)
+* communicative (ideally native English)
+* tech-savvy, but no need to have development skills
+
 ### Working environment
 
 You'll be working in our office in Bangkok. We have a beautiful office here full of snacks and Coke. 27" screens and ergonomic chairs.
