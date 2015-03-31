@@ -1,4 +1,4 @@
-# Project co-ordinator / business analyst
+# Project coordinator / business analyst
 
 ### About us
 
