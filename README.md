@@ -35,6 +35,11 @@ Massage room, movie corner and gaming room included! See [more office photos](ht
 
 Wanna see more photos? See [our gallery](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649) and check [10 reasons why you should join us](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/10-reasons-why-you-should-join-us.md).
 
+## Slideshare PPT - Product & Engineering
+
+[![Slideshare: Product & Engineering at HotelQuickly](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/slideshare-cover.png)](http://www.slideshare.net/juhasm/hotelquickly-product-engineering)
+
+
 ## Our core values
 
 All of us live by the following core values. Let us know if this sounds like a perfect fir for you!
