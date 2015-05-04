@@ -25,7 +25,7 @@ Our Bangkok team (on a photo below) is quickly expanding. Others work "on the gr
 
 We've got lots of fun at the office, check out what people say in the video below:
 
-[![VIDEO: How does it work at HotelQuickly](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/we-are-hiring-thumbnail-video.jpg)](https://www.youtube.com/watch?v=mx4DpP4OM9I)
+[![VIDEO: How does it work at HotelQuickly](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/we-are-hiring-thumbnail-video.jpg)](https://www.youtube.com/watch?v=IE78NGSV_NU)
 
 ## Our amazing bright new office in Bangkok
 
