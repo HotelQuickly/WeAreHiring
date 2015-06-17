@@ -8,15 +8,18 @@ Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/h
 
 ### Open positions in the Product & Engineering team
 
-* [Project coordinator / business analyst](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Project-coordinator.md)
-* [Full-stack developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Full-stack.md)
-* [Front-End developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Front-end.md)
-* [Designer - UX/UI](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Designer-ux-ui.md)
 * [Product owner](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Product-owner.md)
-* [Node.js developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Nodejs.md)
-* [PHP developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/PHP.md)
-* [Android develper](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Android.md)
-* [iOS developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/iOS.md)
+* [Project coordinator / business analyst](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Project-coordinator.md)
+* [Designer - UX/UI](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Designer-ux-ui.md)
+* Front-End development
+  * [Front-End developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Front-end.md)
+* Backend development
+  * [Full-stack developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Full-stack.md)
+  * [Node.js developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Nodejs.md)
+  * [PHP developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/PHP.md)
+* Mobile app development
+  * [Android develper](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Android.md)
+  * [iOS developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/iOS.md)
 
 ## Our team
 
