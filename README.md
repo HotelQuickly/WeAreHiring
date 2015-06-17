@@ -60,6 +60,8 @@ On a monthly basis we organise meetups with local developers, designers and CTOs
 
 See more on our Meetup.com group: [Dev Meetups Hosted by HotelQuickly Engineers](http://meetup.com/BKK-Developers-and-Tech-lovers/).
 
+![Apple Watch App Meetup photo](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/meetup-apple-watch-app.jpeg)
+
 ## Our core values
 
 All of us live by the following core values. Let us know if this sounds like a perfect fir for you!
