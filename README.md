@@ -50,6 +50,16 @@ Wanna see more photos? See [our gallery](https://plus.google.com/photos/10039200
 * [Meetups With our Engineering Team](http://product.hotelquickly.com/blog/meetups-with-our-engineering-and-development-team)
 * and more on [product.hotelquickly.com](http://product.hotelquickly.com)
 
+## Meetups with local developers
+
+On a monthly basis we organise meetups with local developers, designers and CTOs. The topics include:
+
+* [Apple Watch app development](http://www.meetup.com/BKK-Developers-and-Tech-lovers/events/221988348/)
+* [Lessons Learnt from Backend Systems Development](http://www.meetup.com/BKK-Developers-and-Tech-lovers/events/222069625/)
+* [Building Scalable Microservices with Nodejs](http://www.meetup.com/BKK-Developers-and-Tech-lovers/events/222069670/)
+
+See more on our Meetup.com group: [Dev Meetups Hosted by HotelQuickly Engineers](http://meetup.com/BKK-Developers-and-Tech-lovers/).
+
 ## Our core values
 
 All of us live by the following core values. Let us know if this sounds like a perfect fir for you!
