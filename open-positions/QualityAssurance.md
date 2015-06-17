@@ -70,7 +70,8 @@ We communicate over HipChat. Sometimes even when we sit next to each other ;-) t
 
 ### Compensation
 
-We're still small but we recognise that we need to pay well to get the talent we need. To really (I mean *REALLY*) good candidates we can offer equity.
+* **Salary** - We're still small but we recognise that we need to pay well to get the talent we need.
+* **Equity** - To really good candidates we can offer stock options. Yay!
 
 But we offer much more to make you happy - check the [compensation packages](https://github.com/HotelQuickly/WeAreHiring/blob/master/README.md#compensation--perks).
 
