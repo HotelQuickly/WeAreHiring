@@ -43,6 +43,12 @@ Wanna see more photos? See [our gallery](https://plus.google.com/photos/10039200
 
 [![Slideshare: Product & Engineering at HotelQuickly](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/slideshare-cover.png)](http://www.slideshare.net/juhasm/hotelquickly-product-engineering)
 
+## Product Blog
+
+* [How do we attract the best developers?](http://product.hotelquickly.com/blog/how-do-we-attract-the-best-developers)
+* [QA and Developers - the way to do it right!](http://product.hotelquickly.com/blog/qa-and-devs)
+* [Meetups With our Engineering Team](http://product.hotelquickly.com/blog/meetups-with-our-engineering-and-development-team)
+* and more on [product.hotelquickly.com](http://product.hotelquickly.com)
 
 ## Our core values
 
@@ -112,14 +118,6 @@ All of us live by the following core values. Let us know if this sounds like a p
 * exciting, right? :)
 
 **You** - move to Thailand (if you're not here already), find a nice flat, rent a motor-bike, get a Thai girlfriend, ... whatever makes you [happy](http://www.youtube.com/watch?v=y6Sxv-sUYtM).
-
-## How does it work at HotelQuickly?
-
-Byte, Jim and Josef wrote short posts in our [engineering blog](http://engineering.hotelquickly.com) about their work with us.
-
-* [Byte: How does it work at HotelQuickly?](http://engineering.hotelquickly.com/2014/05/15/byte-working-at-hotelquickly/)
-* [Jim: How does it work at HotelQuickly?](http://engineering.hotelquickly.com/2014/05/16/jim-working-at-hotelquickly/)
-* [Josef: Why to work at HotelQuickly?](http://engineering.hotelquickly.com/2014/05/18/josef-working-at-hotelquickly/)
 
 ## Compensation & perks
 
