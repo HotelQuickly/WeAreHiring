@@ -93,4 +93,8 @@ There's lots of additional resources in
 
 ### How to apply?
 
-http://hotelquickly.theresumator.com/apply
+Do you want to enjoy some fun while working with us? Then click on the button below.
+
+<a href="http://hotelquickly.theresumator.com/apply/ek4KBa/Senior-IOS-Developer?source=wearehiring">
+ <img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/button-apply-now.jpg" height="60" />
+</a>
