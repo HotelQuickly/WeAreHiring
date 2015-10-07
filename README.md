@@ -8,7 +8,6 @@ Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/h
 
 ### Open positions in the Product & Engineering team
 
-* [Product owner](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Product-owner.md)
 * [Project coordinator / business analyst](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Project-coordinator.md)
 * [Designer - UX/UI](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Designer-ux-ui.md)
 * Front-End development
