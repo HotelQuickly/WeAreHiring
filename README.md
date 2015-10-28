@@ -24,7 +24,8 @@ At HotelQuickly, we enjoy spending time together, whether in or out of the offic
 
 <img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/BBQ%20Party%202015/IMG_0840.jpg" width="250" />
 <img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/2015%20random%20company%20events/Slack%20for%20iOS%20Upload.jpg" width="250" />
-<img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/2015%20random%20company%20events/Sunday%20morning%20session.jpg" width="250" />
+<br />
+<img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/2015%20random%20company%20events/Sunday%20morning%20session.jpg" width="150" />
 <img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/BBQ%20Party%202015/IMG_0758.jpg" width="250" />
 
 ---
