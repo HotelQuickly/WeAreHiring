@@ -9,6 +9,8 @@ Ready to see what your life might be like as a member of HotelQuickly? Read on t
 ## Who are we?
 ### Our Team
 
+<img src="https://raw.githubusercontent.com//HotelQuickly/WeAreHiring/blob/master/images/hq-team-from-BBQ.jpg" align="center" />
+
 The HotelQuickly team comprises more than 100 employees, from 23 nationalities, speaking 20 languages, and working from 10 offices around the region! See what these talented people have to say about working for HotelQuickly in the video below:
 
 [![VIDEO: How does it work at HotelQuickly](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/we-are-hiring-thumbnail-video.jpg)](https://www.youtube.com/watch?v=IE78NGSV_NU)
@@ -17,6 +19,7 @@ The HotelQuickly team comprises more than 100 employees, from 23 nationalities, 
 
 An office like no other! At HotelQuickly, we value personal freedom and we want our team to enjoy a work environment that is accepting of individual work styles, yet fun and inspiring. This is why we've got Pizza Fridays, flexible work hours, a lounge room and garden, no dress code or assigned desks, and an open pantry where the coffee is always hot and everyone is welcome. 
 
+<img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/blob/master/images/office/office.png" width="250" />
 
 ### We love to have FUN! 
 
