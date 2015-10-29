@@ -26,7 +26,7 @@ An office like no other! At HotelQuickly, we value personal freedom and we want 
 
 At HotelQuickly, we enjoy spending time together, whether in or out of the office. Our members often take off on spontaneous workactions, and we organise regular parties in Bangkok and annual all-team get-togethers at beautiful destinations within Thailand. 
 
-<img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/BBQ%20Party%202015/IMG_0840.jpg" width="250" />
+<img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/offsite-20141119/photo1.jpg" width="325" />
 <img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/2015%20random%20company%20events/Slack%20for%20iOS%20Upload.jpg" width="250" />
 <br />
 <img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/2015%20random%20company%20events/Sunday%20morning%20session.jpg" width="150" />
