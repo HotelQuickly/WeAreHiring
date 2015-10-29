@@ -9,7 +9,7 @@ Ready to see what your life might be like as a member of HotelQuickly? Read on t
 ## Who are we?
 ### Our Team
 
-<img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg" align="center" width="350" />
+<img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg" width="350" />
 <img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/smoking-break.jpg" width="350" />
 
 The HotelQuickly team comprises more than 100 employees, from 23 nationalities, speaking 20 languages, and working from 10 offices around the region! See what these talented people have to say about working for HotelQuickly in the video below:
