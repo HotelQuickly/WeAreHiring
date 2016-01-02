@@ -27,11 +27,11 @@ An office like no other! At HotelQuickly, we value personal freedom and we want 
 
 At HotelQuickly, we enjoy spending time together, whether in or out of the office. Our members often take off on spontaneous workactions, and we organise regular parties in Bangkok and annual all-team get-togethers at beautiful destinations within Thailand. 
 
-<img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/offsite-20141119/photo1.jpg" width="325" />
-<img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/2015%20random%20company%20events/Slack%20for%20iOS%20Upload.jpg" width="250" />
+<a target="_blank" style="float: left" href="https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649"><img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/offsite-20141119/photo1.jpg" width="325" /></a>
+<a target="_blank" style="float: left" href="https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649"><img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/2015%20random%20company%20events/Slack%20for%20iOS%20Upload.jpg" width="250" /></a>
 <br />
-<img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/2015%20random%20company%20events/Sunday%20morning%20session.jpg" width="250" />
-<img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/2015%20random%20company%20events/BI%20night%20continues%20_).jpg" width="325" />
+<a target="_blank" style="float: left" href="https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649"><img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/2015%20random%20company%20events/Sunday%20morning%20session.jpg" width="250" /></a>
+<a target="_blank" style="float: left" href="https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649"><img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/2015%20random%20company%20events/BI%20night%20continues%20_).jpg" width="325" /></a>
 
 ---
 
