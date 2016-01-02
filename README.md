@@ -10,9 +10,7 @@ Ready to see what your life might be like as a member of HotelQuickly? Read on t
 
 ### Our Team
 
-<a href="https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649"><img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg" width="350" /></a>
-
-<a href="https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649"><img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/smoking-break.jpg" width="350" /></a>
+![https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/Nov2015/Full-HotelQuickly-team.jpg](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649)
 
 Quick facts about the team:
 
