@@ -9,8 +9,9 @@ Ready to see what your life might be like as a member of HotelQuickly? Read on t
 ## Who are we?
 ### Our Team
 
-<img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg" width="350" />
-<img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/smoking-break.jpg" width="350" />
+<a href="https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649"><img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg" width="350" /></a>
+
+<a href="https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649"><img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/smoking-break.jpg" width="350" /></a>
 
 The HotelQuickly team comprises more than 100 employees, from 23 nationalities, speaking 20 languages, and working from 10 offices around the region! See what these talented people have to say about working for HotelQuickly in the video below:
 
@@ -20,7 +21,7 @@ The HotelQuickly team comprises more than 100 employees, from 23 nationalities, 
 
 An office like no other! At HotelQuickly, we value personal freedom and we want our team to enjoy a work environment that is accepting of individual work styles, yet fun and inspiring. This is why we've got Pizza Fridays, flexible work hours, a lounge room and garden, no dress code or assigned desks, and an open pantry where the coffee is always hot and everyone is welcome. 
 
-<img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office/office.png" width="800" />
+[![HotelQuickly office](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/office/office.png)](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/office.md)
 
 ### We love to have FUN! 
 
