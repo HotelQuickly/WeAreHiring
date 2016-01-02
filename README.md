@@ -1,12 +1,13 @@
 # Jobs @ HotelQuickly Engineering
 
-### Get the Silicon Valley experience at our exciting startup right in the heart of Bangkok
+### Get the Silicon Valley experience at our exciting startup in Bangkok
 
 [HotelQuickly](http://www.hotelquickly.com) is the #1 mobile app for last-minute hotel booking in Asia-Pacific. Our company is led by an experienced [international team](http://www.hotelquickly.com/team/) of serial enterprenuers and investors. We launched in March 2013 with offices in Hong Kong, Thailand, Singapore, Taiwan, Indonesia and Malaysia and have since raised a total of US$5.6 million in investor funding. Today, HotelQuickly is live in 15 countries across Asia-Pacific, and the app has been featured in leading media such as TechCrunch, CBS, NBC, TechInAsia, TheNextWeb, Yahoo, Tnooz and [others](http://www.hotelquickly.com/press). 
 
 Ready to see what your life might be like as a member of HotelQuickly? Read on to find out more. 
 
 ## Who are we?
+
 ### Our Team
 
 <a href="https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649"><img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/hq-team-from-BBQ.jpg" width="350" /></a>
