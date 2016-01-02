@@ -85,6 +85,19 @@ All of us live by the following core values. Let us know if this sounds like a p
 Join HotelQuickly is a chance to fast-track your career at one of Asia-Pacific's most dynamic and exciting startups. 
 Here are [10 reasons why you should join us](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/10-reasons-why-you-should-join-us.md).
 
+### We are agile 
+
+Read more about [how do we use agile to improve product development](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/we-are-agile.md).
+
+### Our stack and technology
+
+* AWS (EC2, RDS MySQL, Redis and other 10+ services)
+* Deis running on DigitalOcean
+* Nodejs & PHP on Back-end
+* iOS app: native Objective-C
+* Android app: native Java
+* and lots of cool stuff
+
 ### Hiring process
 
 1. Apply by filling out an application form. We welcome applicants who are stars in their fields (ie. PHP, Nodejs, iOS, Android) are able to join us immediately at the Bangkok Office, and are dedicated to building a superb product.
@@ -112,16 +125,7 @@ Want to know how much you need to live in Bangkok? Check our overview of [living
 
 ---
 
-## More about Developers
-### We are agile 
-
-Read more about us [how do we use agile to improve product development](https://github.com/HotelQuickly/WeAreHiring/blob/master/additional-info/we-are-agile.md).
-
-### Our stack and technology
-
-| PHP | MySQL | Node.js | NoSQL (Redis & MongoDB & DynamoDb) |
-|:--:|:--:|:--:|:--:|
-| Objective-C | Java | Amazon AWS |  |
+## More about us
 
 ### Open source
 
