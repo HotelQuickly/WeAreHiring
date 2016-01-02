@@ -14,7 +14,14 @@ Ready to see what your life might be like as a member of HotelQuickly? Read on t
 
 <a href="https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649"><img src="https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/smoking-break.jpg" width="350" /></a>
 
-The HotelQuickly team comprises more than 100 employees, from 23 nationalities, speaking 20 languages, and working from 10 offices around the region! See what these talented people have to say about working for HotelQuickly in the video below:
+Quick facts about the team:
+
+* More than **100 employees**
+* from **23 nationalities**
+* speak **20 languages**
+* and work from **10 offices** in APAC
+
+See [more team photos](https://plus.google.com/photos/100392005626903871747/albums/6014406468923735649).
 
 [![VIDEO: How does it work at HotelQuickly](https://raw.githubusercontent.com/HotelQuickly/WeAreHiring/master/images/we-are-hiring-thumbnail-video.jpg)](https://www.youtube.com/watch?v=IE78NGSV_NU)
 
