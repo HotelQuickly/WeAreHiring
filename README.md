@@ -66,6 +66,7 @@ To see more updates, visit our [Meetup.com group - Dev Meetups Hosted by HotelQu
 * Front-End development
   * [Front-End developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Front-end.md)
 * Backend development
+  * [System architect](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/System-architect.md)
   * [Full-stack developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Full-stack.md)
   * [Node.js developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Nodejs.md)
   * [PHP developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/PHP.md)
