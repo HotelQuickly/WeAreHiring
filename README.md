@@ -41,6 +41,14 @@ At HotelQuickly, we enjoy spending time together, whether in or out of the offic
 
 ---
 
+## Why to join a startup?
+
+> "People who work at a start-up rarely regret their decisions, and most are proud of their first jobs for the rest of their lives."
+
+Read more in [9 reasons why working for a startup leads to career success](http://thenextweb.com/insider/2016/03/05/9-reasons-why-working-for-a-startup-leads-to-career-success/)
+
+---
+
 ## What's Happening in HQ?
 ### Product Blog and Meetup Slides
 
