@@ -14,7 +14,7 @@ Ready to see what your life might be like as a member of HotelQuickly? Read on t
 
 Quick facts about the team:
 
-* More than **100 employees**
+* More than **80 employees**
 * from **23 nationalities**
 * speak **20 languages**
 * and work from **10 offices** in APAC
