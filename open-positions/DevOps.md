@@ -19,7 +19,7 @@ Oh, and we raised $4.5m USD in [last funding](http://techcrunch.com/2014/07/09/h
 
 ---
 
-### About you
+### We expect you to have
 
 * Experience with running Docker in production
 * Familiarity with cloud environments such as AWS or Google Cloud Platform
@@ -49,7 +49,7 @@ Also, the team consists of highly experienced serial entrepreneurs and former ex
 
 ### The job and the challenges
 
-We expect you to take ownership of the operations tasks in our DevOps culture. That means you should be:
+We expect you to take ownership of the operations tasks in our DevOps culture. That means you should:
 
 * Maintain our server infrastructure - stability, security, scalability
 * Prepare our system for any new projects and requirements
