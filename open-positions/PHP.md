@@ -50,7 +50,7 @@ We expect you to take ownership of some of our internal projects (we have dozens
 
 On a more technical note, you need to know how to handle the entire software development life cycle, end to end, including working with
 
-* some PHP framework ([Nette framework](http://nette.org), [Symphony 2](http://symfony.com/), [Laravel](http://laravel.com/))
+* some PHP framework ([Nette framework](http://nette.org), [Symfony 2](http://symfony.com/), [Laravel](http://laravel.com/))
 * SQL + ORM database model ([Doctrine2](http://www.doctrine-project.org/))
 * large database (we have 200+ tables in the main project)
 * NoSQL database (we use both MongoDB and Redis for some internal Backend projects)
